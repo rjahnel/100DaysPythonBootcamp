@@ -18,9 +18,14 @@ or
 git add .
 for all files in folder
 
+## show repository status
+git status
+
+## commit changes
 git commit -m "Commit-message"
 
+
 ## Save commit to remote repository
-git push origin master
+git push origin main
 
 
