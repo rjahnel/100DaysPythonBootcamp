@@ -136,4 +136,3 @@ with open("./file2.txt") as file2:
 
 result = [int(item) for item in f1_data if item in f2_data]
 print(result)
-    
