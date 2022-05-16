@@ -127,3 +127,13 @@ for (index, row) in student_dataframe.iterrows():
 # 1. Rolf = 33
 # 2. Hannah-Sofie = 44
 # 3. Finn = 72
+
+with open("./file1.txt") as file1:
+    f1_data = file1.readlines()
+
+with open("./file2.txt") as file2:
+    f2_data = file2.readlines()
+
+result = [int(item) for item in f1_data if item in f2_data]
+print(result)
+    
