@@ -1,3 +1,4 @@
+import imp
 import random
 import pandas
 
@@ -59,7 +60,7 @@ sentence = "What is the Airspeed Velocity of an Unladen Swallow?"
 result = {word: len(word) for word in sentence.split()}
 print(result)
 
-# create dictionary: 
+# create dictionary in fahrenheit: 
 # {'Monday': 53.6, 'Tuesday': 57.2, 'Wednesday': 59.0, 'Thursday': 57.2, 'Friday': 69.8, 'Saturday': 71.6, 'Sunday': 75.2}
 
 def c_to_f(celsius):
@@ -76,7 +77,8 @@ weather_c = {
     "Sunday": 24,
 }
 
-weather_f = {day: c_to_f(temp) for (day, temp) in weather_c.items()}
+weather_f = {day:c_to_f(temp) for (day, temp) in weather_c.items()}
+# weather_f = {day:temp * 9/5 + 32 for (day, temp) in weather_c.items()}
 print(weather_f)
 
 # Looping through a dictionary
@@ -89,7 +91,7 @@ student_dict = {
     "score": [56, 33, 44, 72]
 }
 
-# Lopping through dictionary
+# Looping through dictionary
 for (key, value) in student_dict.items():
      print(f"key: {key}, value: {value}")
 
@@ -128,6 +130,7 @@ for (index, row) in student_dataframe.iterrows():
 # 2. Hannah-Sofie = 44
 # 3. Finn = 72
 
+# Challenge list comprehension
 with open("./file1.txt") as file1:
     f1_data = file1.readlines()
 
@@ -136,3 +139,11 @@ with open("./file2.txt") as file2:
 
 result = [int(item) for item in f1_data if item in f2_data]
 print(result)
+
+# Challenge dictionary comprehension
+import random
+names = ["Susanne", "Rolf", "Finn", "Hannah-Sofie", "Marco", "Lucy"]
+students = {student:random.randint(1, 100) for student in names}
+print(students)
+passed_students = {student:value for (student, value) in students.items() if value >= 60}
+print(passed_students)
