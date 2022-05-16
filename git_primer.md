@@ -28,4 +28,5 @@ git commit -m "Commit-message"
 ## Save commit to remote repository
 git push origin main
 
-
+## Save commit from remote repository
+git pull origin main
