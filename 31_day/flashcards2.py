@@ -14,7 +14,7 @@ try:
         language_header = file.readline()
         
 except FileNotFoundError:
-    with open("data/vocabulary.csv") as file:
+    with open("data/Oxford3000.csv") as file:
         language_header = file.readline()
 finally:
     languages = language_header.rstrip('\n').split(',')
@@ -24,7 +24,7 @@ finally:
 try:
     data = pandas.read_csv("data/words_to_learn.csv")
 except FileNotFoundError:
-    data = pandas.read_csv("data/vocabulary.csv")      
+    data = pandas.read_csv("data/Oxford3000_small.csv")      
 finally:
     to_learn = data.to_dict(orient="records")
     
@@ -37,6 +37,7 @@ LANGUAGES_ASK  = languages[0]      # e.g. English
 LANGUAGES_ANSWER  = languages[1]   # e.g. German
 front_side = True
 
+# ---------------------------- Config -------------------------------
 def pick_flashcard():
     global translation
     global flip_timer
@@ -46,6 +47,7 @@ def pick_flashcard():
     card_count = len(to_learn)
     
     if card_count:
+        canvas.itemconfig(card_amount, text=f"Sum of flashcards: {card_count}.")
         current_card = random.choice(to_learn)
         word = current_card[LANGUAGES_ASK]
         translation = current_card[LANGUAGES_ANSWER]
@@ -53,7 +55,8 @@ def pick_flashcard():
         canvas.itemconfig(canvas_image, image=card_front_img)
         canvas.itemconfig(language_text, text=LANGUAGES_ASK, fill="black")    
         canvas.itemconfig(word_text, text=word, fill="black")
-        front_side = True    
+        front_side = True
+            
         flip_timer = window.after(TIMER, flip_card)
     else:
         messagebox.showinfo(title="Finish", message="You have learned all flashcards!", icon="info")        
@@ -78,17 +81,12 @@ def flip_card():
     canvas.itemconfig(canvas_image, image=card_back_img)
     canvas.itemconfig(language_text, text=LANGUAGES_ANSWER, fill="white")    
     canvas.itemconfig(word_text, text=translation, fill="white")
-        
-def next_solved(event=None): # After pressing Return
-    solved()
-
-def next_unknown(event=None): # After pressing Esc
-    not_known()
+  
 # ---------------------------- Setup Screen ----------------------------
 
 window = Tk()
 
-window.title("Flashcards")
+window.title(f"Flashcards")
 window.config(padx=50, pady=50, bg=BACKGROUND_COLOR)
 
 flip_timer = window.after(TIMER, flip_card)
@@ -107,13 +105,8 @@ word_text = canvas.create_text(400, 263, text="", font=(FONT_NAME, 60, "bold"))
 
 canvas.config(bg=BACKGROUND_COLOR, highlightthickness=0)
 canvas.grid(column=0, row=0, columnspan=2)
-
-Button(window, text = '', command = next_solved)
-Button(window, text = '', command = next_unknown)
-window.bind('<Return>', next_solved)
-window.bind('<Escape>', next_unknown)
-
-wrong_img = PhotoImage(file="images/wrong.png")
+card_amount = canvas.create_text(60, 520, text="", font=(FONT_NAME, 12, "italic"))
+∫wrong_img = PhotoImage(file="images/wrong.png")
 unknown_button = Button(image=wrong_img, highlightthickness=0, command=not_known)
 unknown_button.grid(row=1, column=0)
 
