@@ -1,50 +1,3839 @@
 English,German,Box
-abandon,aufgeben,0
+abandon,aufgeben,0,0
 abandoned,verlassen,0
-ability,Fähigkeit,1
+ability,Fähigkeit,0
 able,fähig,0
-about,um,1
-above,Oben,2
-abroad,im Ausland,3
-absence,Abwesenheit,1
+about,um,0
+above,Oben,0
+abroad,im Ausland,0
+absence,Abwesenheit,0
 absent,abwesend,0
 absolute,absolut,0
-absolutely,unbedingt,1
+absolutely,unbedingt,0
 absorb,absorbieren,0
-abuse,Missbrauch,1
-academic,akademisch,1
+abuse,Missbrauch,0
+academic,akademisch,0
 accent,Akzent,0
-accept,annehmen,1
+accept,annehmen,0
 acceptable,akzeptabel,0
-access,Zugang,1
-accident,Unfall,2
+access,Zugang,0
+accident,Unfall,0
 accidental,zufällig,0
 accidentally,versehentlich,0
-accommodation,Unterkunft,2
+accommodation,Unterkunft,0
 accompany,begleiten,0
 according to,entsprechend,0
 account,Konto,0
-account for,Konto für,3
+account for,Konto für,0
 accurate,genau,0
-accurately,genau,2
-accuse,beschuldigen,2
-achieve,erreichen,2
-achievement,Leistung,1
+accurately,genau,0
+accuse,beschuldigen,0
+achieve,erreichen,0
+achievement,Leistung,0
 acid,Säure,0
 acknowledge,anerkennen,0
-a couple,ein Paar,1
+a couple,ein Paar,0
 acquire,erwerben,0
 across,über,0
-act,Handlung,1
-action,Aktion,2
-active,aktiv,2
-actively,aktiv,1
-activity,Aktivität,3
-actor,Schauspieler,1
-actress,Darstellerin,2
-actual,tatsächlich,3
-actually,eigentlich,1
+act,Handlung,0
+action,Aktion,0
+active,aktiv,0
+actively,aktiv,0
+activity,Aktivität,0
+actor,Schauspieler,0
+actress,Darstellerin,0
+actual,tatsächlich,0
+actually,eigentlich,0
 ad,Anzeige,0
-adapt,sich anpassen,3
+adapt,sich anpassen,0
 add,hinzufügen,0
-addition,Zusatz,1
+addition,Zusatz,0
+additional,zusätzlich,0
+add on,hinzufügen Auf,0
+address,die Anschrift,0
+add up,addieren,0
+add up to,addieren sich zu,0
+adequate,angemessen,0
+adequately,angemessen,0
+adjust,anpassen,0
+admiration,Bewunderung,0
+admire,bewundern,0
+admit,zugeben,0
+adopt,adoptieren,0
+adult,Erwachsene,0
+advance,Vorauszahlung,0
+advanced,fortschrittlich,0
+advantage,Vorteil,0
+adventure,Abenteuer,0
+advert,Inserat,0
+advertise,werben,0
+advertisement,Anzeige,0
+advertising,Werbung,0
+advice,Rat,0
+advise,beraten,0
+affair,Affäre,0
+affect,beeinträchtigen,0
+affection,Zuneigung,0
+afford,sich leisten,0
+afraid,besorgt,0
+after,nach,0
+afternoon,Nachmittag,0
+afterwards,danach,0
+again,wieder,0
+against,gegen,0
+age,das Alter,0
+aged,alt,0
+agency,Agentur,0
+agent,Agent,0
+aggressive,aggressiv,0
+ago,vor,0
+agree,zustimmen,0
+agreement,Zustimmung,0
+ahead,voraus,0
+aid,Hilfe,0
+aim,Ziel,0
+air,Luft,0
+aircraft,Flugzeug,0
+airport,Flughafen,0
+alarm,Alarm,0
+alarmed,alarmiert,0
+alarming,alarmierend,0
+alcohol,Alkohol,0
+alcoholic,alkoholisch,0
+alive,am Leben,0
+all,alle,0
+allied,alliiert,0
+allow,ermöglichen,0
+allow for,erlauben für,0
+all right,gut,0
+ally,Verbündete,0
+almost,fast,0
+alone,allein,0
+along,eine lange,0
+alongside,neben,0
+aloud,laut,0
+alphabet,Alphabet,0
+alphabetical,alphabetisch,0
+alphabetically,alphabetisch,0
+already,schon,0
+also,Auch,0
+alter,ändern,0
+alternative,Alternative,0
+alternatively,Alternative,0
+although,obwohl,0
+altogether,insgesamt,0
+always,stets,0
+a.m.,bin.,0
+amaze,überraschen,0
+amazed,erstaunt,0
+amazing,toll,0
+ambition,Ehrgeiz,0
+ambulance,Ambulanz,0
+among,unter,0
+amount,Menge,0
+amount to,betragen,0
+amuse,amüsieren,0
+amused,amüsiert,0
+amusing,lustig,0
+analyse,analysieren,0
+analysis,Analyse,0
+ancient,alt,0
+and,und,0
+anger,Wut,0
+angle,Winkel,0
+angrily,wütend,0
+angry,wütend,0
+animal,Tier,0
+ankle,Knöchel,0
+anniversary,Jubiläum,0
+announce,bekannt geben,0
+annoy,Nerven,0
+annoyed,verärgert,0
+annoying,ärgerlich,0
+annual,jährlich,0
+annually,jährlich,0
+another,Ein weiterer,0
+answer,Antworten,0
+anti-,Anti-,0
+anticipate,antizipieren,0
+anxiety,Angst,0
+anxious,Ängstlich,0
+anxiously,besorgt,0
+any,irgendein,0
+anybody,irgendjemand,0
+anyone,jeder,0
+anything,irgendetwas,0
+anyway,ohnehin,0
+anywhere,irgendwo,0
+apart,ein Teil,0
+apart from,"außer, abgesondert, ausgenommen",0
+apartment,Wohnung,0
+apologize,entschuldigen,0
+apparent,ersichtlich,0
+apparently,offenbar,0
+appeal,appellieren,0
+appear,erscheinen,0
+appearance,Aussehen,0
+apple,Apfel,0
+application,Anwendung,0
+apply,anwenden,0
+appoint,ernennen,0
+appointment,geplanter Termin,0
+appreciate,im Wert steigen,0
+approach,sich nähern,0
+appropriate,angemessen,0
+approval,die Genehmigung,0
+approve,genehmigen,0
+approving,Genehmigung,0
+approximate,ungefähr,0
+approximately,etwa,0
+April,April,0
+area,Bereich,0
+argue,streiten,0
+argument,Streit,0
+arise,entstehen,0
+arm,Arm,0
+armed,bewaffnet,0
+arms,Waffen,0
+army,Heer,0
+around,um,0
+arrange,arrangieren,0
+arrangement,Anordnung,0
+arrest,Festnahme,0
+arrival,Ankunft,0
+arrive,ankommen,0
+arrive at,ankommen bei,0
+arrow,Pfeil,0
+art,Kunst,0
+article,Artikel,0
+artificial,künstlich,0
+artificially,künstlich,0
+artist,Künstler,0
+artistic,künstlerisch,0
+artistically,künstlerisch,0
+as,wie,0
+ashamed,beschämt,0
+aside,beiseite,0
+aside from,abgesehen von,0
+ask,Fragen,0
+asleep,schlafend,0
+aspect,Aspekt,0
+assist,helfen,0
+assistance,Hilfe,0
+assistant,Assistent,0
+associate,assoziieren,0
+associated,damit verbundenen,0
+association,Verband,0
+assume,davon ausgehen,0
+assure,versichern,0
+at,bei,0
+atmosphere,Atmosphäre,0
+atom,Atom,0
+attach,anfügen,0
+attached,angebracht,0
+attack,Attacke,0
+attempt,versuchen,0
+attempted,versuchte,0
+attend,teilnehmen,0
+attend to,jemanden bedienen,0
+attention,Aufmerksamkeit,0
+attitude,Attitüde,0
+attorney,Rechtsanwalt,0
+attract,anlocken,0
+attraction,Attraktion,0
+attractive,attraktiv,0
+audience,Publikum,0
+August,August,0
+aunt,Tante,0
+author,Autor,0
+authority,Behörde,0
+automatic,automatisch,0
+automatically,automatisch,0
+autumn,Herbst,0
+available,verfügbar,0
+average,Durchschnitt,0
+avoid,vermeiden,0
+awake,Erwachen,0
+award,vergeben,0
+aware,bewusst,0
+away,ein Weg,0
+awful,furchtbar,0
+awfully,furchtbar,0
+awkward,unangenehm,0
+awkwardly,unbeholfen,0
+baby,Baby,0
+back,der Rücken,0
+background,Hintergrund,0
+back up,sich zurückziehen,0
+backward,rückwärts,0
+backwards,rückwärts,0
+bacteria,Bakterien,0
+bad,Schlecht,0
+badly,schlecht,0
+bad-tempered,schlecht gelaunt,0
+bag,Tasche,0
+baggage,Gepäck,0
+bake,backen,0
+balance,Gleichgewicht,0
+ball,Ball,0
+ban,Verbot,0
+band,Band,0
+bandage,Binde,0
+bank,Bank,0
+bar,Bar,0
+bargain,Schnäppchen,0
+barrier,Barriere,0
+base,Base,0
+based,basierend,0
+base on,Basis auf,0
+basic,Basic,0
+basically,Grundsätzlich,0
+basis,Basis,0
+bath,Bad,0
+bathroom,Bad,0
+battery,Batterie,0
+battle,Schlacht,0
+bay,Bucht,0
+be,sein,0
+beach,Strand,0
+beak,Schnabel,0
+bear,Bär,0
+beard,Bart,0
+beat,schlagen,0
+beat up,verprügeln,0
+beautiful,schön,0
+beautifully,schön,0
+beauty,Schönheit,0
+because,Weil,0
+because of,durch,0
+become,werden,0
+bed,Bett,0
+bedroom,Schlafzimmer,0
+beef,Rindfleisch,0
+beer,Bier,0
+before,Vor,0
+begin,Start,0
+beginning,Anfang,0
+behalf,Namen,0
+behave,sich verhalten,0
+behaviour,Verhalten,0
+behind,hinter,0
+be left over,übrig bleiben,0
+belief,Glauben,0
+believe,glauben,0
+believe in,glauben an,0
+bell,Glocke,0
+belong,gehören,0
+belong to,gehören,0
+below,unter,0
+belt,Gürtel,0
+bend,Biege,0
+beneath,unter,0
+benefit,Nutzen,0
+bent,gebogen,0
+beside,neben,0
+best,Beste,0
+bet,Wette,0
+better,besser,0
+betting,Wetten,0
+between,zwischen,0
+beyond,Darüber hinaus,0
+bicycle,Fahrrad,0
+bid,Gebot,0
+big,groß,0
+bike,Fahrrad,0
+bill,Rechnung,0
+billion,Milliarde,0
+bin,Behälter,0
+biology,Biologie,0
+bird,Vogel,0
+birth,Geburt,0
+birthday,Geburtstag,0
+biscuit,Keks,0
+bit,bisschen,0
+bite,beissen,0
+bitter,bitter,0
+bitterly,bitterlich,0
+black,Schwarz,0
+blade,Klinge,0
+blame,Schuld,0
+blank,leer,0
+blind,blind,0
+block,Block,0
+blonde,blond,0
+blood,Blut,0
+blow,Schlag,0
+blow out,Ausblasen,0
+blow up,sprengen,0
+blue,blau,0
+board,Tafel,0
+boat,Boot,0
+body,Karosserie,0
+boil,Kochen,0
+bomb,Bombe,0
+bone,Knochen,0
+book,Buchen,0
+boot,Stiefel,0
+border,Grenze,0
+bore,Bohrung,0
+bored,gelangweilt,0
+boring,langweilig,0
+born,geboren,0
+borrow,ausleihen,0
+boss,Chef,0
+both,beide,0
+bother,sich kümmern,0
+bottle,Flasche,0
+bottom,Unterseite,0
+bound,gebunden,0
+bowl,Schüssel,0
+box,Kasten,0
+boy,Junge,0
+boyfriend,Freund,0
+brain,Gehirn,0
+branch,Zweig,0
+brand,Marke,0
+brave,tapfer,0
+bread,brot,0
+break,Unterbrechung,0
+break down,abbauen,0
+breakfast,Frühstück,0
+break in,einbrechen,0
+break into,einbrechen in,0
+break off,abbrechen,0
+break out,ausbrechen,0
+break up,beenden,0
+breast,Brust,0
+breath,Atem,0
+breathe,atmen,0
+breathe in,Einatmen,0
+breathe out,Ausatmen,0
+breathing,Atmung,0
+breed,züchten,0
+brick,Backstein,0
+bridge,Brücke,0
+brief,knapp,0
+briefly,knapp,0
+bright,hell,0
+brightly,hell,0
+brilliant,brillant,0
+bring,bringen,0
+bring back,zurückbringen,0
+bring down,herunter bringen,0
+bring forward,voran bringen,0
+bring out,rausbringen,0
+bring up,zur Sprache bringen,0
+broad,breit,0
+broadcast,Übertragung,0
+broadly,breit,0
+broken,gebrochen,0
+brother,Bruder,0
+brown,braun,0
+brush,Bürste,0
+bubble,Blase,0
+budget,Budget,0
+build,bauen,0
+building,Gebäude,0
+build up,aufbauen,0
+bullet,Patrone,0
+bunch,Bündel,0
+burn,brennen,0
+burn down,Abbrennen,0
+burnt,verbrannt,0
+burst,platzen,0
+burst into,in,0
+burst out,ausbrachen,0
+bury,begraben,0
+bus,Bus,0
+bush,Busch,0
+business,Geschäft,0
+businessman,Geschäftsmann,0
+busy,belebt,0
+but,aber,0
+butter,Butter,0
+button,Taste,0
+buy,Kaufen,0
+buyer,Käufer,0
+by,durch,0
+bye,Wiedersehen,0
+cabinet,Kabinett,0
+cable,Kabel,0
+cake,Kuchen,0
+calculate,Berechnung,0
+calculation,Berechnung,0
+call,Anruf,0
+call back,zurückrufen,0
+called,genannt,0
+call for,fordern,0
+call off,absagen,0
+call up,anrufen,0
+calm,Ruhe,0
+calm down,sich beruhigen,0
+calmly,ruhig,0
+camera,Kamera,0
+camp,Lager,0
+campaign,Kampagne,0
+camping,Camping,0
+can, kann,0
+cancel,Abbrechen,0
+cancer,Krebs,0
+candidate,Kandidat,0
+candy,Süssigkeit,0
+cannot,kann nicht,0
+cap,Deckel,0
+capable,fähig,0
+capacity,Kapazität,0
+capital,Hauptstadt,0
+captain,Kapitän,0
+capture,Erfassung,0
+car,Wagen,0
+card,Karte,0
+cardboard,Karton,0
+care,Pflege,0
+career,Werdegang,0
+care for,pflegen,0
+careful,Vorsichtig,0
+carefully,sorgfältig,0
+careless,leichtsinnig,0
+carelessly,nachlässig,0
+carpet,Teppich,0
+carrot,Karotte,0
+carry,tragen,0
+carry on,fortfahren,0
+carry out,durchführen,0
+case,Fall,0
+cash,Kasse,0
+cast,gießen,0
+castle,Schloss,0
+cat,Katze,0
+catch,Fang,0
+catch up,aufholen,0
+category,Kategorie,0
+cause,weil,0
+CD,CD,0
+cease,beenden,0
+ceiling,Decke,0
+celebrate,zelebrieren,0
+celebration,Feier,0
+cell,Zelle,0
+cell phone,Mobiltelefon,0
+cent,Cent,0
+centimetre,Zentimeter,0
+central,zentral,0
+centre,Center,0
+century,Jahrhundert,0
+ceremony,Zeremonie,0
+certain,sicher,0
+certainly,sicherlich,0
+certificate,Zertifikat,0
+chain,Kette,0
+chair,Stuhl,0
+chairman,Vorsitzende,0
+chairwoman,Vorsitzende,0
+challenge,Herausforderung,0
+chamber,Kammer,0
+chance,Chance,0
+change,Rückgeld,0
+change round,wechseln,0
+channel,Kanal,0
+chapter,Kapitel,0
+character,Charakter,0
+characteristic,charakteristisch,0
+charge,aufladen,0
+charity,Wohltätigkeit,0
+chart,Diagramm,0
+chase,Verfolgungsjagd,0
+chase away,verjagen,0
+chat,Plaudern,0
+cheap,billig,0
+cheaply,billig,0
+cheat,schummeln,0
+cheat of,Betrüger von,0
+check,überprüfen,0
+check in,Check-In,0
+check into,check in,0
+check on,prüfen Auf,0
+check out,Kasse,0
+check over,überprüfen,0
+check up on,Überprüfen Sie,0
+cheek,Wange,0
+cheerful,gut gelaunt,0
+cheerfully,fröhlich,0
+cheese,Käse,0
+chemical,chemisch,0
+chemist,Chemiker,0
+chemistry,Chemie,0
+cheque,überprüfen,0
+chest,Truhe,0
+chew,kauen,0
+chicken,Hähnchen,0
+chief,Chef,0
+child,Kind,0
+chin,kinn,0
+chip,Chip,0
+chocolate,Schokolade,0
+choice,Auswahl,0
+choose,wählen,0
+chop,hacken,0
+chop down,fällen,0
+chop off,abhacken,0
+church,Kirche,0
+cigarette,Zigarette,0
+cinema,Kino,0
+circle,Kreis,0
+circumstance,Umstand,0
+citizen,Bürger,0
+city,Stadt,0
+civil,bürgerlich,0
+claim,Klage,0
+clap,klatschen,0
+class,Klasse,0
+classic,klassisch,0
+classroom,Klassenzimmer,0
+clean,sauber,0
+clean up,Aufräumen,0
+clear,klar,0
+clearly,deutlich,0
+clear out,klären,0
+clear up,klären,0
+clerk,Sachbearbeiter,0
+clever,clever,0
+click,klicken,0
+client,Klient,0
+climate,Klima,0
+climb,steigen,0
+climbing,Klettern,0
+clock,Uhr,0
+close,nah dran,0
+closed,abgeschlossen,0
+closely,eng,0
+closet,Wandschrank,0
+cloth,Stoff,0
+clothes,Kleidung,0
+clothing,Kleidung,0
+cloud,Wolke,0
+club,Verein,0
+coach,Coach,0
+coal,Kohle,0
+coast,Küste,0
+coat,Mantel,0
+code,Code,0
+coffee,Kaffee,0
+coin,Münze,0
+cold,kalt,0
+coldly,kalt,0
+collapse,Zusammenbruch,0
+colleague,Kollege,0
+collect,sammeln,0
+collection,Sammlung,0
+college,Uni,0
+colour,Farbe,0
+coloured,farbig,0
+column,Säule,0
+combination,Kombination,0
+combine,kombinieren,0
+come,Kommen Sie,0
+come across,stoßen rüber,0
+come down,herunter kommen,0
+comedy,Komödie,0
+come from,komme aus,0
+come in,Komm herein,0
+come off,ausgehen,0
+come on,aufleuchten,0
+come out,herauskommen,0
+come round,vorbeikommen,0
+come to,Komm zu,0
+come up,aufkommen,0
+come up to,komm an,0
+comfort,Komfort,0
+comfortable,gemütlich,0
+comfortably,bequem,0
+command,Befehl,0
+comment,Kommentar,0
+commercial,kommerziell,0
+commission,Kommission,0
+commit,verpflichten,0
+commitment,Verpflichtung,0
+committee,Komitee,0
+common,gemeinsames,0
+commonly,häufig,0
+communicate,kommunizieren,0
+communication,Kommunikation,0
+community,Gemeinschaft,0
+company,Gesellschaft,0
+compare,vergleichen,0
+comparison,Vergleich,0
+compete,wetteifern,0
+competition,Wettbewerb,0
+competitive,wettbewerbsfähig,0
+complain,beschweren,0
+complaint,Beschwerde,0
+complete,Komplett,0
+completely,vollständig,0
+complex,Komplex,0
+complicate,komplizieren,0
+complicated,kompliziert,0
+computer,Computer,0
+concentrate,konzentrieren,0
+concentrate on,konzentrieren auf,0
+concentration,Konzentration,0
+concept,Konzept,0
+concern,Anliegen,0
+concerned,betroffen,0
+concerning,betreffend,0
+concert,Konzert,0
+conclude,daraus schließen,0
+conclusion,Fazit,0
+concrete,Beton,0
+condition,Bedingung,0
+conduct,Verhalten,0
+conference,Konferenz,0
+confidence,Vertrauen,0
+confident,zuversichtlich,0
+confidently,zuversichtlich,0
+confine,beschränken,0
+confined,beschränkt,0
+confirm,bestätigen,0
+conflict,Konflikt,0
+confront,konfrontieren,0
+confuse,verwechseln,0
+confused,verwirrt,0
+confusing,verwirrend,0
+confusion,Verwirrtheit,0
+congratulate,gratulieren,0
+congratulation,Glückwunsch,0
+congress,Kongress,0
+connect,verbinden,0
+connected,in Verbindung gebracht,0
+connection,Verbindung,0
+conscious,bewusst,0
+consequence,Folge,0
+conservative,konservativ,0
+consider,Erwägen,0
+considerable,beträchtlich,0
+considerably,wesentlich,0
+consideration,Rücksichtnahme,0
+consist,bestehen,0
+consist of,besteht aus,0
+constant,Konstante,0
+constantly,ständig,0
+construct,konstruieren,0
+construction,Konstruktion,0
+consult,konsultieren,0
+consumer,Verbraucher,0
+contact,Kontakt,0
+contain,enthalten,0
+container,Container,0
+contemporary,zeitgenössisch,0
+content,Inhalt,0
+contest,Wettbewerb,0
+context,Kontext,0
+continent,Kontinent,0
+continue,fortsetzen,0
+continuous,kontinuierlich,0
+continuously,ständig,0
+contract,Vertrag,0
+contrast,Kontrast,0
+contrasting,kontrastieren,0
+contribute,beitragen,0
+contribution,Beitrag,0
+control,Kontrolle,0
+controlled,kontrolliert,0
+convenient,praktisch,0
+convention,Konvention,0
+conventional,konventionell,0
+conversation,Gespräch,0
+convert,Konvertieren,0
+convince,überzeugen,0
+cook,Koch,0
+cooker,Kocher,0
+cookie,Plätzchen,0
+cooking,Kochen,0
+cool,Kalt,0
+cool down,abkühlen,0
+cope,bewältigen,0
+copy,Kopieren,0
+core,Ader,0
+corner,Ecke,0
+correct,Korrekt,0
+correctly,korrekt,0
+cost,kosten,0
+cottage,Hütte,0
+cotton,Baumwolle,0
+cough,Husten,0
+coughing,Husten,0
+could,könnte,0
+council,Rat,0
+count,zählen,0
+counter,Zähler,0
+count on,verlassen auf,0
+country,Land,0
+countryside,Landschaft,0
+county,Bezirk,0
+couple,Paar,0
+courage,Mut,0
+course,Kurs,0
+court,Gericht,0
+cousin,Cousin,0
+cover,Startseite,0
+covered,bedeckt,0
+covering,Abdeckung,0
+cover up,zudecken,0
+cow,Kuh,0
+crack,Riss,0
+cracked,geknackt,0
+craft,Boot,0
+crash,Absturz,0
+crazy,verrückt,0
+cream,Creme,0
+create,schaffen,0
+creature,Kreatur,0
+credit,Anerkennung,0
+credit card,Kreditkarte,0
+crime,Verbrechen,0
+criminal,kriminell,0
+crisis,Krise,0
+crisp,knackig,0
+criterion,Kriterium,0
+critical,kritisch,0
+criticism,Kritik,0
+criticize,kritisieren,0
+crop,Ernte,0
+cross,Kreuz,0
+cross out,streichen,0
+crowd,Menge,0
+crowded,überlaufen,0
+crown,Krone,0
+crucial,zentral,0
+cruel,grausam,0
+crush,zerkleinern,0
+cry,Schrei,0
+cry out,schreien,0
+cultural,kulturell,0
+culture,Kultur,0
+cup,Tasse,0
+cupboard,Schrank,0
+curb,Randstein,0
+cure,Heilung,0
+curious,neugierig,0
+curiously,Seltsamerweise,0
+curl,Locken,0
+curl up,sich zusammenrollen,0
+curly,lockig,0
+current,aktuell,0
+currently,zur Zeit,0
+curtain,Vorhang,0
+curve,Kurve,0
+curved,gebogen,0
+custom,Brauch,0
+customer,Kunde,0
+customs,Zoll,0
+cut,schneiden,0
+cut back,Rückschnitt,0
+cut down,verringern,0
+cut off,abgeschnitten,0
+cut out,ausgeschnitten,0
+cut up,zerschneiden,0
+cycle,Kreislauf,0
+cycling,Radfahren,0
+dad,Papa,0
+daily,Täglich,0
+damage,Schaden,0
+damp,Feuchte,0
+dance,tanzen,0
+dancer,Tänzer,0
+dancing,Tanzen,0
+danger,Achtung,0
+dangerous,gefährlich,0
+dare,Wagen,0
+dark,dunkel,0
+data,Daten,0
+date,Datum,0
+date back,Date zurück,0
+daughter,Tochter,0
+day,Tag,0
+dead,tot,0
+deaf,taub,0
+deal,handeln,0
+deal in,ansprechen,0
+deal with,bewältigen,0
+dear,Liebling,0
+death,Tod,0
+debate,Debatte,0
+debt,Schuld,0
+decade,Jahrzehnt,0
+decay,Verfall,0
+December,Dezember,0
+decide,sich entscheiden,0
+decide on,entscheiden über,0
+decision,Entscheidung,0
+declare,erklären,0
+decline,Abfall,0
+decorate,schmücken,0
+decoration,Dekoration,0
+decorative,dekorativ,0
+decrease,Verringerung,0
+deep,tief,0
+deeply,tief,0
+defeat,Verlust,0
+defence,Verteidigung,0
+defend,verteidigen,0
+define,definieren,0
+definite,definitiv,0
+definitely,bestimmt,0
+definition,Definition,0
+degree,Grad,0
+delay,Verzögerung,0
+deliberate,absichtlich,0
+deliberately,absichtlich,0
+delicate,empfindlich,0
+delight,Vergnügen,0
+delighted,erfreut,0
+deliver,liefern,0
+delivery,Lieferung,0
+demand,fordern,0
+demonstrate,zeigen,0
+dentist,Zahnarzt,0
+deny,leugnen,0
+department,Abteilung,0
+departure,Abfahrt,0
+depend,abhängen,0
+depend on,darauf ankommen,0
+deposit,Hinterlegung,0
+depress,deprimieren,0
+depressed,deprimiert,0
+depressing,deprimierend,0
+depth,Tiefe,0
+derive,ableiten,0
+derive from,ergeben sich aus,0
+describe,beschreiben,0
+description,Bezeichnung,0
+desert,Wüste,0
+deserted,verlassen,0
+deserve,verdienen,0
+design,Entwurf,0
+desire,Verlangen,0
+desk,Schreibtisch,0
+desperate,verzweifelt,0
+desperately,verzweifelt,0
+despite,Trotz,0
+destroy,zerstören,0
+destruction,Zerstörung,0
+detail,Detail,0
+detailed,detailliert,0
+determination,Festlegung,0
+determine,bestimmen,0
+determined,bestimmt,0
+develop,sich entwickeln,0
+development,Entwicklung,0
+device,Gerät,0
+devote,widmen,0
+devoted,hingebungsvoll,0
+devote to,widmen,0
+diagram,Diagramm,0
+diamond,Diamant,0
+diary,Tagebuch,0
+dictionary,Wörterbuch,0
+die,sterben,0
+die away,wegsterben,0
+die out,Aussterben,0
+diet,Diät,0
+difference,Unterschied,0
+different,anders,0
+differently,anders,0
+difficult,schwierig,0
+difficulty,Schwierigkeit,0
+dig,graben,0
+digital,Digital,0
+dinner,Abendessen,0
+direct,Direkte,0
+direction,Richtung,0
+directly,direkt,0
+director,Direktor,0
+dirt,Schmutz,0
+dirty,schmutzig,0
+disabled,deaktiviert,0
+disadvantage,Nachteil,0
+disagree,nicht zustimmen,0
+disagreement,Uneinigkeit,0
+disagree with doing,nicht einverstanden mit dem Tun,0
+disappear,verschwinden,0
+disappoint,enttäuschen,0
+disappointed,enttäuscht,0
+disappointing,enttäuschend,0
+disappointment,Enttäuschung,0
+disapproval,Missbilligung,0
+disapprove,missbilligen,0
+disapproving,missbilligend,0
+disaster,Katastrophe,0
+disc,Rabatt,0
+discipline,Disziplin,0
+discount,Rabatt,0
+discover,entdecken,0
+discovery,Entdeckung,0
+discuss,diskutieren,0
+discussion,Diskussion,0
+disease,Erkrankung,0
+disgust,der Ekel,0
+disgusted,angewidert,0
+disgusting,widerlich,0
+dish,Gericht,0
+dishonest,unehrlich,0
+dishonestly,unehrlich,0
+disk,Scheibe,0
+dislike,nicht gefallen,0
+dismiss,zurückweisen,0
+display,Anzeige,0
+dissolve,sich auflösen,0
+distance,Distanz,0
+distinguish,unterscheiden,0
+distribute,verteilen,0
+distribution,Verteilung,0
+district,Bezirk,0
+disturb,stören,0
+disturbing,störend,0
+divide,teilen,0
+division,Aufteilung,0
+divorce,Scheidung,0
+divorced,geschieden,0
+do,tun,0
+doctor,Arzt,0
+document,dokumentieren,0
+dog,Hund,0
+dollar,Dollar,0
+domestic,inländisch,0
+dominate,dominieren,0
+door,Tür,0
+dot,Punkt,0
+double,doppelt,0
+doubt,Zweifel,0
+do up,aufpeppen,0
+do with,machen mit,0
+do without,verzichten,0
+down,Nieder,0
+downstairs,unten,0
+downward,nach unten,0
+downwards,nach unten,0
+dozen,Dutzend,0
+draft,Entwurf,0
+drag,ziehen,0
+drama,Theater,0
+dramatic,dramatisch,0
+dramatically,dramatisch,0
+draw,zeichnen,0
+drawer,Schublade,0
+drawing,Zeichnung,0
+dream,Traum,0
+dress,Kleid,0
+dressed,gekleidet,0
+dress up,Ankleiden,0
+drink,Getränk,0
+drive,Fahrt,0
+drive away,wegfahren,0
+drive off,wegfahren,0
+driver,Treiber,0
+driving,Fahren,0
+drop,fallen,0
+drop out,aussteigen,0
+drug,Arzneimittel,0
+drugstore,Drogerie,0
+drum,Trommel,0
+drunk,betrunken,0
+dry,trocken,0
+dry off,abtrocknen,0
+dry up,Austrocknen,0
+due,fällig,0
+dull,Stumpf,0
+dump,entsorgen,0
+during,während,0
+dust,Staub,0
+duty,Pflicht,0
+DVD,DVD,0
+dying,Absterben,0
+each,jeder,0
+each other,gegenseitig,0
+ear,Ohr,0
+early,frühzeitig,0
+earn,verdiene,0
+earth,Erde,0
+ease,Leichtigkeit,0
+easily,leicht,0
+east,Ost,0
+eastern,Ost,0
+easy,einfach,0
+eat,Essen,0
+eat out,Essen gehen,0
+eat up,aufessen,0
+economic,wirtschaftlich,0
+economy,Wirtschaft,0
+edge,Kante,0
+edition,Auflage,0
+editor,Editor,0
+educate,erziehen,0
+educated,gebildet,0
+education,Ausbildung,0
+effect,Wirkung,0
+effective,Wirksam,0
+effectively,effektiv,0
+efficient,effizient,0
+efficiently,effizient,0
+effort,Anstrengung,0
+e.g.,z.B.,0
+egg,Ei,0
+eight,acht,0
+eighteen,achtzehn,0
+eighteenth,Achtzehnt,0
+eighth,achte,0
+eightieth,Achtzigste,0
+eighty,achtzig,0
+either,entweder,0
+elbow,Ellbogen,0
+elderly,Alten,0
+elect,wählen,0
+election,Wahl,0
+electric,elektrisch,0
+electrical,elektrisch,0
+electricity,Elektrizität,0
+electronic,elektronisch,0
+elegant,elegant,0
+element,Element,0
+elevator,Aufzug,0
+eleven,elf,0
+eleventh,elfte,0
+else,anders,0
+elsewhere,anderswo,0
+email,Email,0
+embarrass,in Verlegenheit bringen,0
+embarrassed,beschämt,0
+embarrassing,peinlich,0
+embarrassment,Verlegenheit,0
+emerge,auftauchen,0
+emergency,Notfall,0
+emotion,Emotion,0
+emotional,emotional,0
+emotionally,emotional,0
+emphasis,Hervorhebung,0
+emphasize,betonen,0
+empire,Reich,0
+employ,beschäftigen,0
+employee,Angestellter,0
+employer,Arbeitgeber,0
+employment,Beschäftigung,0
+empty,leer,0
+enable,ermöglichen,0
+encounter,begegnen,0
+encourage,ermutigen,0
+encouragement,Ermutigung,0
+end,Ende,0
+end in,Ende in,0
+ending,Ende,0
+end up,Enden,0
+enemy,Feind,0
+energy,Energie,0
+engage,engagieren,0
+engaged,verlobt,0
+engine,Motor,0
+engineer,Techniker,0
+engineering,Ingenieurwesen,0
+enjoy,Viel Spaß,0
+enjoyable,angenehm,0
+enjoyment,Vergnügen,0
+enormous,enorm,0
+enough,genügend,0
+enquiry,Anfrage,0
+ensure,dafür sorgen,0
+enter,Eintreten,0
+entertain,unterhalten,0
+entertainer,Entertainer,0
+entertaining,unterhaltsam,0
+entertainment,Entertainment,0
+enthusiasm,Begeisterung,0
+enthusiastic,enthusiastisch,0
+enthusiastically,begeistert,0
+entire,gesamte,0
+entirely,völlig,0
+entitle,berechtigen,0
+entrance,Eingang,0
+entry,Eintrag,0
+envelope,Umschlag,0
+environment,Umgebung,0
+environmental,Umwelt,0
+equal,gleich,0
+equally,gleichermaßen,0
+equipment,Ausrüstung,0
+equivalent,Äquivalent,0
+error,Error,0
+escape,Flucht,0
+especially,besonders,0
+essay,Aufsatz,0
+essential,wesentlich,0
+essentially,im Wesentlichen,0
+establish,Gründen,0
+estate,Anwesen,0
+estimate,schätzen,0
+etc.,usw.,0
+euro,Euro,0
+even,eben,0
+evening,Abend,0
+event,Veranstaltung,0
+eventually,letztlich,0
+ever,je,0
+every,jeder,0
+everybody,alle,0
+everyone,alle,0
+everything,alles,0
+everywhere,"überall, überallhin, allerorts",0
+evidence,Beweis,0
+evil,teuflisch,0
+ex-,ex-,0
+exact,genau,0
+exactly,exakt,0
+exaggerate,übertreiben,0
+exaggerated,übertrieben,0
+exam,Prüfung,0
+examination,Untersuchung,0
+examine,untersuchen,0
+example,Beispiel,0
+excellent,Ausgezeichnet,0
+except,außer,0
+exception,Ausnahme,0
+exchange,Austausch,0
+excite,begeistern,0
+excited,aufgeregt,0
+excitement,Aufregung,0
+exciting,aufregend,0
+exclude,ausschließen,0
+excluding,ausschließlich,0
+excuse,Entschuldigung,0
+executive,Executive,0
+exercise,Übung,0
+exhibit,Ausstellungsstück,0
+exhibition,Ausstellung,0
+exist,existieren,0
+existence,Existenz,0
+exit,Ausfahrt,0
+expand,erweitern,0
+expect,erwarten von,0
+expectation,Erwartung,0
+expected,erwartet,0
+expense,Kosten,0
+expensive,teuer,0
+experience,Erfahrung,0
+experienced,erfahren,0
+experiment,Experiment,0
+expert,Experte,0
+explain,erklären,0
+explanation,Erläuterung,0
+explode,explodieren,0
+explore,erforschen,0
+explosion,Explosion,0
+export,Export,0
+expose,entlarven,0
+express,ausdrücken,0
+expression,Ausdruck,0
+extend,erweitern,0
+extension,Verlängerung,0
+extensive,umfangreich,0
+extent,Ausmaß,0
+extra,extra,0
+extraordinary,außerordentlich,0
+extreme,extrem,0
+extremely,äußerst,0
+eye,Auge,0
+face,Gesicht,0
+face up to,Gesicht zu,0
+facility,Einrichtung,0
+fact,Tatsache,0
+factor,Faktor,0
+factory,Fabrik,0
+fail,scheitern,0
+failure,Versagen,0
+faint,ohnmächtig werden,0
+faintly,schwach,0
+fair,Messe,0
+fairly,ziemlich,0
+faith,Glaube,0
+faithful,treu,0
+faithfully,treu,0
+fall,Herbst,0
+false,falsch,0
+fame,Ruhm,0
+familiar,vertraut,0
+family,Familie,0
+famous,berühmt,0
+fan,Fan,0
+fancy,schick,0
+far,weit,0
+farm,Bauernhof,0
+farmer,Bauer,0
+farming,Landwirtschaft,0
+farther,weiter,0
+farthest,am weitesten,0
+fashion,Mode,0
+fashionable,modisch,0
+fast,schnell,0
+fasten,befestigen,0
+fat,fett,0
+father,Vater,0
+faucet,Wasserhahn,0
+fault,Fehler,0
+favour,favorisieren,0
+favourite,Favorit,0
+fear,Furcht,0
+feather,Feder,0
+feature,Besonderheit,0
+February,Februar,0
+federal,Bundes,0
+fee,Gebühr,0
+feed,Einspeisung,0
+feel,Gefühl,0
+feeling,Gefühl,0
+fellow,Gefährte,0
+female,weiblich,0
+fence,Zaun,0
+festival,Festival,0
+fetch,bringen,0
+fever,Fieber,0
+few,wenig,0
+field,aufstellen,0
+fifteen,fünfzehn,0
+fifteenth,fünfzehnte,0
+fifth,fünfte,0
+fiftieth,fünfzigste,0
+fifty,fünfzig,0
+fight,Kampf,0
+fighting,Kampf,0
+figure,Zahl,0
+figure out,herausfinden,0
+file,Datei,0
+fill,füllen,0
+fill in,ergänze,0
+fill out,ausfüllen,0
+fill up,auffüllen,0
+film,Film,0
+final,Finale,0
+finally,endlich,0
+finance,Finanzen,0
+financial,finanziell,0
+find,finden,0
+find out,erfahren,0
+fine,fein,0
+finely,fein,0
+finger,Finger,0
+finish,Fertig,0
+finished,fertig,0
+finish off,erledigen,0
+fire,Feuer,0
+firm,Feste,0
+firmly,fest,0
+first,Erste,0
+fish,Fische,0
+fishing,Angeln,0
+fit,fit,0
+fit in,sich einfügen,0
+five,fünf,0
+fix,Fix,0
+fixed,Fest,0
+flag,Flagge,0
+flame,Flamme,0
+flash,Blitz,0
+flat,eben,0
+flavour,Geschmack,0
+flesh,Fleisch,0
+flight,Flug,0
+float,schweben,0
+flood,Flut,0
+flooded,überflutet,0
+flooding,Überschwemmung,0
+floor,Boden,0
+flour,Mehl,0
+flow,fließen,0
+flower,Blume,0
+flu,Grippe,0
+fly,fliegen,0
+flying,fliegend,0
+focus,Fokus,0
+fold,falten,0
+folding,Falten,0
+follow,Folgen,0
+following,folgen,0
+follow up,nachverfolgen,0
+food,Lebensmittel,0
+foot,Fuß,0
+football,Fußball,0
+for,zum,0
+force,Macht,0
+forecast,Vorhersage,0
+foreign,ausländisch,0
+forest,Wald,0
+forever,bis in alle Ewigkeit,0
+forget,vergessen,0
+forgive,verzeihen,0
+fork,Gabel,0
+form,bilden,0
+formal,formell,0
+formally,formal,0
+former,ehemalige,0
+formerly,früher,0
+formula,Formel,0
+fortieth,vierzigste,0
+fortune,Reichtum,0
+forty,vierzig,0
+forward,nach vorne,0
+found,gefunden,0
+foundation,Stiftung,0
+four,vier,0
+fourteen,vierzehn,0
+fourteenth,vierzehnte,0
+fourth,vierte,0
+frame,rahmen,0
+free,frei,0
+freedom,Freiheit,0
+freely,frei,0
+freeze,einfrieren,0
+frequent,häufig,0
+frequently,häufig,0
+fresh,frisch,0
+freshly,frisch,0
+Friday,Freitag,0
+fridge,Kühlschrank,0
+friend,Freund,0
+friendly,freundlich,0
+friendship,Freundschaft,0
+frighten,erschrecken,0
+frighten away/off,erschrecken/aus,0
+frightened,erschrocken,0
+frightening,erschreckend,0
+from,aus,0
+front,Vorderseite,0
+frozen,gefroren,0
+fruit,Obst,0
+fry,braten,0
+fuel,Treibstoff,0
+full,voll,0
+fully,völlig,0
+fun,Spaß,0
+function,Funktion,0
+function as,funktionieren als,0
+fund,Fonds,0
+fundamental,grundlegend,0
+funeral,Beerdigung,0
+funny,komisch,0
+fur,Pelz,0
+furniture,Möbel,0
+further,des Weiteren,0
+future,Zukunft,0
+gain,gewinnen,0
+gallon,Gallone,0
+gamble,zocken,0
+gambling,Glücksspiel,0
+game,Spiel,0
+gap,Lücke,0
+garage,Garage,0
+garbage,Müll,0
+garden,Garten,0
+gas,Gas,0
+gasoline,Benzin,0
+gate,Tor,0
+gather,versammeln,0
+gear,Ausrüstung,0
+general,Allgemeines,0
+generally,allgemein,0
+generate,generieren,0
+generation,Generation,0
+generous,großzügig,0
+generously,großzügig,0
+gentle,sanft,0
+gentleman,Gentleman,0
+gently,sanft,0
+genuine,echt,0
+genuinely,original,0
+geography,Erdkunde,0
+get,erhalten,0
+get away,wegkommen,0
+get away with,Geh weg mit,0
+get back,Komm zurück,0
+get by,vorbeikommen,0
+get in,Treten Sie ein,0
+get into,geraten in,0
+get off,verschwinde,0
+get on,"zusteigen, einsteigen, vorwärtskommen",0
+get on with,mach weiter,0
+get out of,aussteigen,0
+get over,Komm drüber hinweg,0
+get round,umgehen,0
+get round to,Gehen Sie zu,0
+get through,durchkommen,0
+get up,steh auf,0
+giant,Riese,0
+gift,Geschenk,0
+girl,Mädchen,0
+girlfriend,feste Freundin,0
+give,geben,0
+give away,hergeben,0
+give back,zurück geben,0
+give in,nachgeben,0
+give off,abgeben,0
+give out,verteilen,0
+give up,aufgeben,0
+glad,froh,0
+glass,Glas,0
+global,global,0
+glove,Handschuh,0
+glue,Kleber,0
+go,gehen,0
+go ahead,fortfahren,0
+goal,Tor,0
+go away,Geh weg,0
+go back,geh zurück,0
+go back to,geh zurück zu,0
+go by,Vergehen,0
+god,Gott,0
+go down,gehen,0
+go into,gehen in,0
+gold,Gold,0
+good,gut,0
+goodbye,Auf Wiedersehen,0
+goods,Waren,0
+go off,ausgehen,0
+go on,mach weiter,0
+go on doing,mach weiter,0
+go out,hinausgehen,0
+go out with,ausgehen mit,0
+go over,Gehen Sie hinüber,0
+go round,Gehen Sie herum,0
+go through,durchgehen,0
+go through with,durchziehen,0
+go to,gehe zu,0
+go up,geh hinauf,0
+govern,regieren,0
+government,Regierung,0
+governor,Gouverneur,0
+go with,geh mit,0
+go without,Gehen Sie ohne,0
+grab,greifen,0
+grade,Klasse,0
+gradual,schrittweise,0
+gradually,schrittweise,0
+grain,Getreide,0
+gram,Gramm,0
+grammar,Grammatik,0
+grand,Grand,0
+grandchild,Enkel,0
+granddaughter,Enkelin,0
+grandfather,Großvater,0
+grandmother,Oma,0
+grandparent,Großelternteil,0
+grandson,Enkel,0
+grant,gewähren,0
+grass,Gras,0
+grateful,dankbar,0
+grave,Grab,0
+gravely,ernst,0
+great,Großartig,0
+greatly,sehr,0
+green,grün,0
+grey,grau,0
+grocery,Lebensmittelgeschäft,0
+ground,Boden,0
+group,Gruppe,0
+grow,größer werden,0
+growth,Wachstum,0
+grow up,erwachsen werden,0
+guarantee,Garantie,0
+guard,bewachen,0
+guess,erraten,0
+guest,Gast,0
+guide,führen,0
+guilty,schuldig,0
+gun,Pistole,0
+guy,Kerl,0
+habit,Gewohnheit,0
+hair,Haar,0
+hairdresser,Friseur,0
+half,halb,0
+hall,Halle,0
+hammer,Hammer,0
+hand,Hand,0
+hand back,zurückgeben,0
+hand down,Hand nach unten,0
+hand in,einreichen,0
+handle,handhaben,0
+hand out,Handzettel,0
+hand over,aushändigen,0
+hand round,Hand rund,0
+hang,aufhängen,0
+hang about,herumlungern,0
+hang about with,Bleib mit,0
+hang around,rumhängen,0
+hang around with,rumhängen mit,0
+hang on,abwarten,0
+hang on to,Warte an,0
+hang up,auflegen,0
+happen,passieren,0
+happen to,passieren,0
+happily,glücklich,0
+happiness,Glück,0
+happy,glücklich,0
+hard,schwer,0
+hardly,kaum,0
+harm,Schaden,0
+harmful,schädlich,0
+harmless,harmlos,0
+hat,Hut,0
+hate,hassen,0
+hatred,Hass,0
+have,haben,0
+have back,zurückhaben,0
+have on,auf,0
+have to,"müssen, zu ... haben",0
+he,er,0
+head,Kopf,0
+headache,Kopfschmerzen,0
+heal,heilen,0
+health,die Gesundheit,0
+healthy,gesund,0
+hear,hören,0
+hear from,hören von,0
+hearing,Hören,0
+hear of,hören von,0
+heart,Herz,0
+heat,Wärme,0
+heating,Heizung,0
+heat up,Aufheizen,0
+heaven,Himmel,0
+heavily,schwer,0
+heavy,schwer,0
+heel,Hacke,0
+height,Höhe,0
+hell,Hölle,0
+hello,hallo,0
+help,Hilfe,0
+helpful,hilfreich,0
+help out,aushelfen,0
+hence,somit,0
+her,Sie,0
+here,hier,0
+hero,Held,0
+hers,ihres,0
+herself,Sie selber,0
+hesitate,zögern,0
+hi,hallo,0
+hide,ausblenden,0
+high,hoch,0
+highlight,Markieren,0
+highly,höchst,0
+highway,Autobahn,0
+hill,hügel,0
+him,ihn,0
+himself,selbst,0
+hip,Hüfte,0
+hire,mieten,0
+hire out,vermieten,0
+his,seine,0
+historical,historisch,0
+history,Geschichte,0
+hit,Schlag,0
+hobby,Hobby,0
+hold,halt,0
+hold back,halte zurück,0
+hold on,festhalten,0
+hold on to,festhalten,0
+hold out,aushalten,0
+hold up,halten,0
+hole,Loch,0
+holiday,Ferien,0
+hollow,hohl,0
+holy,heilig,0
+home,Heimat,0
+homework,Hausaufgaben,0
+honest,ehrlich,0
+honestly,Ehrlich,0
+honour,ehren,0
+hook,Haken,0
+hope,Hoffnung,0
+horizontal,horizontal,0
+horn,Horn,0
+horror,Grusel,0
+horse,Pferd,0
+hospital,Krankenhaus,0
+host,Gastgeber,0
+hot,heiß,0
+hotel,Hotel,0
+hour,Stunde,0
+house,Haus,0
+household,Haushalt,0
+housing,Gehäuse,0
+how,wie,0
+however,jedoch,0
+huge,riesig,0
+human,Mensch,0
+humorous,humorvoll,0
+humour,Humor,0
+hundred,hundert,0
+hundredth,Hundertstel,0
+hungry,hungrig,0
+hunt,Jagd,0
+hunting,Jagd,0
+hurry,sich beeilen,0
+hurry up,Beeil dich,0
+hurt,Schmerz,0
+husband,Ehemann,0
+I,ich,0
+ice,Eis,0
+ice cream,Eis,0
+idea,Idee,0
+ideal,Ideal,0
+identify,identifizieren,0
+identify with,identifizieren mit,0
+identity,Identität,0
+i.e.,d.h.,0
+if,wenn,0
+ignore,ignorieren,0
+ill,krank,0
+illegal,illegal,0
+illegally,illegal,0
+illness,Krankheit,0
+illustrate,veranschaulichen,0
+image,Bild,0
+imaginary,imaginär,0
+imagination,Vorstellung,0
+imagine,vorstellen,0
+immediate,sofort,0
+immediately,sofort,0
+immoral,unmoralisch,0
+impact,Einschlag,0
+impatient,ungeduldig,0
+implication,Implikation,0
+imply,implizieren,0
+import,importieren,0
+importance,Bedeutung,0
+important,wichtig,0
+importantly,Wichtig,0
+impose,auferlegen,0
+impossible,unmöglich,0
+impress,beeindrucken,0
+impressed,beeindruckt,0
+impression,Eindruck,0
+impressive,beeindruckend,0
+improve,verbessern,0
+improvement,Verbesserung,0
+in,in,0
+inability,Unfähigkeit,0
+inch,Zoll,0
+incident,Vorfall,0
+include,enthalten,0
+including,einschließlich,0
+income,Einkommen,0
+increase,Zunahme,0
+increasingly,zunehmend,0
+indeed,in der Tat,0
+independence,Unabhängigkeit,0
+independent,unabhängig,0
+independently,unabhängig,0
+index,Index,0
+indicate,angeben,0
+indication,Indikation,0
+indirect,indirekt,0
+indirectly,indirekt,0
+individual,Individuell,0
+indoor,Innenräume,0
+indoors,drinnen,0
+industrial,industriell,0
+industry,Industrie,0
+inevitable,unvermeidlich,0
+inevitably,zwangsläufig,0
+infect,infizieren,0
+infected,infiziert,0
+infection,Infektion,0
+infectious,ansteckend,0
+influence,beeinflussen,0
+inform,informieren,0
+informal,informell,0
+information,Information,0
+ingredient,Zutat,0
+initial,Initial,0
+initially,anfänglich,0
+initiative,Initiative,0
+injure,verletzen,0
+injured,verletzt,0
+injury,Verletzung,0
+ink,Tinte,0
+inner,innere,0
+innocent,unschuldig,0
+insect,Insekt,0
+insert,Einfügung,0
+inside,Innerhalb,0
+insist,pochen,0
+insist on,auf etwas bestehen,0
+insist on doing,bestehen darauf,0
+install,Installieren,0
+instance,Beispiel,0
+instead,stattdessen,0
+instead of,Anstatt von,0
+institute,Institut,0
+institution,Institution,0
+instruction,Anweisung,0
+instrument,Instrument,0
+insult,Beleidigung,0
+insulting,beleidigend,0
+insurance,Versicherung,0
+intelligence,Intelligenz,0
+intelligent,intelligent,0
+intend,beabsichtigen,0
+intended,beabsichtigt,0
+intention,Absicht,0
+interest,Interesse,0
+interested,interessiert,0
+interesting,interessant,0
+interior,Innere,0
+internal,intern,0
+international,International,0
+Internet,Internet,0
+interpret,interpretieren,0
+interpretation,Deutung,0
+interrupt,unterbrechen,0
+interruption,Unterbrechung,0
+interval,Intervall,0
+interview,Interview,0
+into,hinein,0
+introduce,einführen,0
+introduction,Einleitung,0
+invent,erfinden,0
+invention,Erfindung,0
+invest,investieren,0
+investigate,untersuchen,0
+investigation,Ermittlung,0
+investment,Investition,0
+invitation,Einladung,0
+invite,einladen,0
+involve,einbeziehen,0
+involved,beteiligt,0
+involvement,Beteiligung,0
+iron,Eisen,0
+irritate,reizen,0
+irritated,irritiert,0
+irritating,irritierend,0
+island,Insel,0
+issue,Ausgabe,0
+it,es,0
+item,Artikel,0
+its,es ist,0
+itself,selbst,0
+jacket,Jacke,0
+jam,Marmelade,0
+January,Januar,0
+jealous,neidisch,0
+jeans,Jeans,0
+jelly,Gelee,0
+jewellery,Schmuck,0
+job,Arbeit,0
+join,beitreten,0
+join in,dazu kommen,0
+joint,gemeinsam,0
+jointly,gemeinsam,0
+joke,scherzen,0
+journalist,Journalist,0
+journey,Reise,0
+joy,Freude,0
+judge,Richter,0
+judgement,Beurteilung,0
+juice,Saft,0
+July,Juli,0
+jump,springen,0
+June,Juni,0
+junior,Junior,0
+just,nur,0
+justice,Gerechtigkeit,0
+justified,gerechtfertigt,0
+justify,rechtfertigen,0
+keen,daran interessiert,0
+keep,behalten,0
+keep out,kein Zutritt,0
+keep out of,Weg bleiben von,0
+keep up,weitermachen,0
+keep up with,mithalten mit,0
+key,Schlüssel,0
+keyboard,Klaviatur,0
+kick,trete,0
+kid,Kind,0
+kill,töten,0
+killing,Tötung,0
+kilogram,Kilogramm,0
+kilometre,Kilometer,0
+kind,nett,0
+kindly,freundlich,0
+kindness,Freundlichkeit,0
+king,König,0
+kiss,Kuss,0
+kitchen,Küche,0
+knee,Knie,0
+knife,Messer,0
+knit,stricken,0
+knitted,gestrickt,0
+knitting,Stricken,0
+knock,klopfen,0
+knock down,niederschlagen,0
+knock out,schlagen,0
+knot,Knoten,0
+know,kennt,0
+knowledge,Wissen,0
+lab,Labor,0
+label,Etikett,0
+laboratory,Labor,0
+labour,Arbeit,0
+lack,Mangel,0
+lacking,fehlen,0
+lady,Dame,0
+lake,See,0
+lamp,Lampe,0
+land,Land,0
+landscape,Landschaft,0
+lane,Fahrbahn,0
+language,Sprache,0
+large,groß,0
+largely,weitgehend,0
+last,Letzte,0
+late,spät,0
+later,später,0
+latest,neueste,0
+latter,letztere,0
+laugh,Lachen,0
+laugh at,Lachen über,0
+launch,Start,0
+law,Gesetz,0
+lawyer,Anwalt,0
+lay,legen,0
+layer,Schicht,0
+lazy,faul,0
+lead,führen,0
+leader,Führer,0
+leading,führend,0
+leaf,Blatt,0
+league,Liga,0
+lean,mager,0
+learn,lernen,0
+least,am wenigsten,0
+leather,Leder,0
+leave,verlassen,0
+leave out,auslassen,0
+lecture,Vorlesung,0
+left,links,0
+leg,Bein,0
+legal,legal,0
+legally,rechtlich,0
+lemon,Zitrone,0
+lend,verleihen,0
+length,Länge,0
+less,weniger,0
+lesson,Lektion,0
+let,Lassen,0
+let down,im Stich lassen,0
+let off,lass weg,0
+letter,Buchstabe,0
+level,eben,0
+library,Bibliothek,0
+licence,Lizenz,0
+license,Lizenz,0
+lid,Deckel,0
+lie,Lüge,0
+lie around,herum liegen,0
+lie down,hinlegen,0
+life,Leben,0
+lift,Aufzug,0
+light,hell,0
+lightly,leicht,0
+like,wie,0
+likely,wahrscheinlich,0
+limit,Grenze,0
+limited,begrenzt,0
+limit to,beschränken auf,0
+line,Linie,0
+link,Verknüpfung,0
+lip,Lippe,0
+liquid,Flüssigkeit,0
+list,aufführen,0
+listen,Hören,0
+literature,Literatur,0
+litre,Liter,0
+little,wenig,0
+live,live,0
+lively,lebhaft,0
+live on,weiter leben,0
+live through,durchleben,0
+live together,Zusammenleben,0
+living,Leben,0
+load,Belastung,0
+loan,Darlehen,0
+local,lokal,0
+locally,örtlich,0
+locate,Lokalisieren,0
+located,gelegen,0
+location,Lage,0
+lock,sperren,0
+lock up,sperren,0
+logic,Logik,0
+logical,logisch,0
+lonely,einsam,0
+long,lang,0
+look,sehen,0
+look after,sich kümmern um,0
+look at,ansehen,0
+look down on,herabsehen auf,0
+look forward to,gespannt sein auf,0
+look into,Einblick in,0
+look on,Schau zu,0
+look on with,schau dir zu,0
+look out,Achtung,0
+look out for,Achten Sie auf,0
+look round,umsehen,0
+look through,durch schauen,0
+look up,Sieh nach oben,0
+look up to,Aufsehen zu,0
+loose,lose,0
+loosely,lose,0
+lord,Herr,0
+lorry,LKW,0
+lose,verlieren,0
+loss,Verlust,0
+lost,verirrt,0
+lot,viel,0
+loud,laut,0
+loudly,laut,0
+love,Liebe,0
+lovely,schön,0
+lover,Liebhaber,0
+low,niedrig,0
+loyal,treu,0
+luck,Glück,0
+lucky,Glücklich,0
+luggage,Gepäck,0
+lump,Klumpen,0
+lunch,Mittagessen,0
+lung,Lunge,0
+machine,Maschine,0
+machinery,Maschinen,0
+mad,wütend,0
+magazine,Zeitschrift,0
+magic,Magie,0
+mail,Post,0
+main,hauptsächlich,0
+mainly,hauptsächlich,0
+maintain,pflegen,0
+major,Haupt,0
+majority,mehrheitlich,0
+make,machen,0
+make into,in,0
+make up,bilden,0
+make-up,bilden,0
+make up for,wieder gut machen,0
+male,männlich,0
+mall,Einkaufszentrum,0
+man,Mann,0
+manage,verwalten,0
+management,Management,0
+manager,Manager,0
+manner,Benehmen,0
+manufacture,Herstellung,0
+manufacturer,Hersteller,0
+manufacturing,Herstellung,0
+many,viele,0
+map,Karte,0
+march,März,0
+March,Marsch,0
+mark,Kennzeichen,0
+market,Markt,0
+marketing,Marketing,0
+marriage,die Ehe,0
+married,verheiratet,0
+marry,heiraten,0
+mass,Masse,0
+massive,fest,0
+master,Meister,0
+match,passen,0
+matching,Matching,0
+match up,zusammenpassen,0
+mate,Kamerad,0
+material,Material,0
+mathematics,Mathematik,0
+matter,Angelegenheit,0
+maximum,maximal,0
+may,kann,0
+May,Kann,0
+maybe,kann sein,0
+mayor,Bürgermeister,0
+me,mich,0
+meal,Mahlzeit,0
+mean,bedeuten,0
+meaning,Bedeutung,0
+means,meint,0
+meanwhile,inzwischen,0
+measure,messen,0
+measurement,Messung,0
+meat,Fleisch,0
+media,Medien,0
+medical,medizinisch,0
+medicine,Medizin,0
+medium,Mittel,0
+meet,Treffen,0
+meeting,treffen,0
+meet up,sich treffen,0
+meet with,treffen mit,0
+melt,schmelzen,0
+member,Mitglied,0
+membership,Mitgliedschaft,0
+memory,Erinnerung,0
+mental,mental,0
+mentally,geistig,0
+mention,nennen,0
+menu,Speisekarte,0
+mere,bloß,0
+merely,nur,0
+mess,Chaos,0
+message,Botschaft,0
+metal,Metall,0
+method,Methode,0
+metre,Meter,0
+mid-,Mitte,0
+midday,Mittag,0
+middle,Mitte,0
+midnight,Mitternacht,0
+might,könnte,0
+mild,leicht,0
+mile,Meile,0
+military,Militär-,0
+milk,Milch,0
+milligram,Milligramm,0
+millimetre,Millimeter,0
+million,Million,0
+millionth,millionste,0
+mind,Geist,0
+mine,Mine,0
+mineral,Mineral,0
+minimum,Minimum,0
+minister,Minister,0
+ministry,Ministerium,0
+minor,unerheblich,0
+minority,Minderheit,0
+minute,Minute,0
+mirror,Spiegel,0
+miss,fehlschlagen,0
+missing,fehlen,0
+miss out,verpassen,0
+mistake,Fehler,0
+mistake for,Fehler für,0
+mistaken,falsch,0
+mix,mischen,0
+mixed,gemischt,0
+mixture,Mischung,0
+mix up,verwechseln,0
+mobile,"Handy, Mobiltelefon",0
+mobile phone,Handy,0
+model,Modell,0
+modern,modern,0
+mom,Mama,0
+moment,Moment,0
+Monday,Montag,0
+money,Geld,0
+monitor,Monitor,0
+month,Monat,0
+mood,Stimmung,0
+moon,Mond,0
+moral,Moral-,0
+morally,moralisch,0
+more,mehr,0
+moreover,Außerdem,0
+morning,Morgen,0
+most,die meisten,0
+mostly,meist,0
+mother,Mutter,0
+motion,Bewegung,0
+motor,Motor-,0
+motorbike,Motorrad,0
+motorcycle,Motorrad,0
+mount,montieren,0
+mountain,Berg,0
+mouse,Maus,0
+mouth,Mund,0
+move,Bewegung,0
+move in,einziehen,0
+movement,Bewegung,0
+move out,ausziehen,0
+move over,bewegen,0
+movie,Film,0
+movie theater,Kino,0
+moving,ziehen um,0
+Mr,Herr,0
+Mrs,Frau,0
+Ms,MS,0
+much,viel,0
+mud,Dreck,0
+multiply,multiplizieren,0
+mum,Mama,0
+murder,Mord,0
+muscle,Muskel,0
+museum,Museum,0
+music,Musik,0
+musical,Musical,0
+musician,Musiker,0
+must,muss,0
+my,mein,0
+myself,mich selbst,0
+mysterious,mysteriös,0
+mystery,Geheimnis,0
+nail,Nagel,0
+naked,nackt,0
+name,Name,0
+narrow,eng,0
+nation,Nation,0
+national,National,0
+natural,natürlich,0
+naturally,natürlich,0
+nature,Natur,0
+navy,Marine,0
+near,nahe,0
+nearby,in der Nähe,0
+nearly,fast,0
+neat,sauber,0
+neatly,ordentlich,0
+necessarily,Notwendig,0
+necessary,notwendig,0
+neck,Nacken,0
+need,brauchen,0
+needle,Nadel,0
+negative,Negativ,0
+neighbour,Nachbar,0
+neighbourhood,Nachbarschaft,0
+neither,weder,0
+nephew,Neffe,0
+nerve,Nerv,0
+nervous,nervös,0
+nervously,nervös,0
+nest,Nest,0
+net,Netz,0
+network,Netzwerk,0
+never,noch nie,0
+nevertheless,Dennoch,0
+new,Neu,0
+newly,neu,0
+news,Nachrichten,0
+newspaper,Zeitung,0
+next,nächste,0
+next to,neben,0
+nice,Hübsch,0
+nicely,schön,0
+niece,Nichte,0
+night,Nacht,0
+nine,neun,0
+nineteen,neunzehn,0
+nineteenth,Neunzehnten,0
+ninetieth,Neunzigste,0
+ninety,neunzig,0
+ninth,neunte,0
+no,nein,0
+nobody,niemand,0
+noise,Lärm,0
+noisily,geräuschvoll,0
+noisy,laut,0
+non-,nicht-,0
+none,keiner,0
+nonsense,Unsinn,0
+no one,niemand,0
+nor,Noch,0
+normal,normal,0
+normally,normalerweise,0
+north,Norden,0
+northern,Nord,0
+nose,Nase,0
+not,nicht,0
+note,Hinweis,0
+note down,notieren,0
+nothing,nichts,0
+notice,Notiz,0
+noticeable,bemerkbar,0
+novel,Roman,0
+November,November,0
+now,jetzt,0
+nowhere,nirgends,0
+nuclear,Nuklear,0
+number,Nummer,0
+nurse,Krankenschwester,0
+nut,Mutter,0
+obey,Folge leisten,0
+object,Objekt,0
+objective,Zielsetzung,0
+observation,Überwachung,0
+observe,beobachten,0
+obtain,erhalten,0
+obvious,offensichtlich,0
+obviously,offensichtlich,0
+occasion,Gelegenheit,0
+occasionally,gelegentlich,0
+occupied,besetzt,0
+occupy,besetzen,0
+occur,geschehen,0
+occur to,vorkommen,0
+ocean,Ozean,0
+o’clock,Uhr,0
+October,Oktober,0
+odd,seltsam,0
+oddly,Seltsamerweise,0
+of,von,0
+off,aus,0
+offence,Delikt,0
+offend,beleidigen,0
+offense,Delikt,0
+offensive,beleidigend,0
+offer,Angebot,0
+office,Büro,0
+officer,Offizier,0
+official,offiziell,0
+officially,offiziell,0
+often,häufig,0
+oh,oh,0
+oil,Öl,0
+OK,OK,0
+old,alt,0
+old-fashioned,altmodisch,0
+on,an,0
+once,einmal,0
+one,eines,0
+one another,einander,0
+onion,Zwiebel,0
+online,online,0
+only,nur,0
+onto,auf zu,0
+open,offen,0
+opening,Öffnung,0
+openly,offen,0
+open up,aufmachen,0
+operate,arbeiten,0
+operation,Betrieb,0
+opinion,Meinung,0
+opponent,Gegner,0
+opportunity,Gelegenheit,0
+oppose,ablehnen,0
+opposed,entgegengesetzt,0
+opposing,gegensätzlich,0
+opposite,Gegenteil,0
+opposition,Opposition,0
+option,Möglichkeit,0
+or,oder,0
+orange,Orange,0
+order,bestellen,0
+ordinary,gewöhnliche,0
+organ,Organ,0
+organization,Organisation,0
+organize,organisieren,0
+organized,organisiert,0
+origin,Ursprung,0
+original,Original,0
+originally,ursprünglich,0
+other,Sonstiges,0
+otherwise,Andernfalls,0
+ought to,sollte,0
+our,unser,0
+ours,unsere,0
+ourselves,uns selbst,0
+out,aus,0
+outdoor,draussen,0
+outdoors,draußen,0
+outer,äußere,0
+outline,Gliederung,0
+output,Ausgang,0
+outside,außen,0
+outstanding,hervorragend,0
+oven,Ofen,0
+over,Über,0
+overall,gesamt,0
+overcome,überwinden,0
+owe,verdanken,0
+own,besitzen,0
+owner,Eigentümer,0
+own up,besitzen,0
+pace,Tempo,0
+pack,Pack,0
+package,Paket,0
+packaging,Verpackung,0
+packet,Paket,0
+pack up,zusammenpacken,0
+page,Seite,0
+pain,Schmerzen,0
+painful,schmerzlich,0
+paint,Farbe,0
+painter,Maler,0
+painting,Malerei,0
+pair,Paar,0
+palace,Palast,0
+pale,blass,0
+pan,Pfanne,0
+panel,Panel,0
+pants,Hose,0
+paper,Papier,0
+parallel,parallel,0
+parent,Elternteil,0
+park,Park,0
+parliament,Parlament,0
+part,Teil,0
+particular,besondere,0
+particularly,im Speziellen,0
+partly,teilweise,0
+partner,Partner,0
+partnership,Partnerschaft,0
+party,Party,0
+pass,passieren,0
+passage,Passage,0
+pass away,versterben,0
+pass by,Vorbeigehen,0
+passenger,Passagier,0
+passing,Vorbeigehen,0
+pass on,weitergeben,0
+pass out,ohnmächtig werden,0
+passport,Reisepass,0
+pass round,Passen Sie herum,0
+pass through,durchlaufen,0
+past,vorbei an,0
+path,Weg,0
+patience,Geduld,0
+patient,Geduldig,0
+pattern,Muster,0
+pause,Pause,0
+pay,Zahlen,0
+pay back,Rückzahlung,0
+payment,Zahlung,0
+pay out,auszahlen,0
+pay up,Bezahle,0
+peace,Frieden,0
+peaceful,friedlich,0
+peak,Gipfel,0
+pen,Stift,0
+pencil,Bleistift,0
+penny,Penny,0
+pension,die Pension,0
+people,Personen,0
+pepper,Pfeffer,0
+per,pro,0
+per cent,Prozent,0
+perfect,perfekt,0
+perfectly,perfekt,0
+perform,ausführen,0
+performance,Leistung,0
+performer,Künstler,0
+perhaps,vielleicht,0
+period,Zeitraum,0
+permanent,dauerhaft,0
+permanently,permanent,0
+permission,Genehmigung,0
+permit,erlauben,0
+person,Person,0
+personal,persönlich,0
+personality,Persönlichkeit,0
+personally,persönlich,0
+persuade,überreden,0
+pet,Haustier,0
+petrol,Benzin,0
+phase,Phase,0
+philosophy,Philosophie,0
+phone,Telefon,0
+photo,Foto,0
+photocopy,Fotokopie,0
+photograph,Foto,0
+photographer,Fotograf,0
+photography,Fotografie,0
+phrase,Phrase,0
+physical,physisch,0
+physically,physisch,0
+physics,Physik,0
+piano,Klavier,0
+pick,wählen,0
+pick up,aufsammeln,0
+picture,Bild,0
+piece,Stück,0
+pig,Schwein,0
+pile,Haufen,0
+pile up,aufstapeln,0
+pill,Pille,0
+pilot,Pilot,0
+pin,Stift,0
+pink,rosa,0
+pint,Pint,0
+pipe,Rohr,0
+pitch,Tonhöhe,0
+pity,Mitleid,0
+place,Platz,0
+plain,schmucklos,0
+plan,planen,0
+plane,Flugzeug,0
+planet,Planet,0
+planning,Planung,0
+plant,Pflanze,0
+plastic,Plastik,0
+plate,Teller,0
+platform,Plattform,0
+play,abspielen,0
+play about,spielen,0
+player,Spieler,0
+play with,Spiel mit,0
+pleasant,angenehm,0
+pleasantly,angenehm,0
+please,bitte,0
+pleased,zufrieden,0
+pleasing,erfreulich,0
+pleasure,Vergnügen,0
+plenty,eine Menge,0
+plot,Handlung,0
+plug,Stecker,0
+plug in,Stecker,0
+plus,Plus,0
+p.m.,p.m.,0
+pocket,Tasche,0
+poem,Gedicht,0
+poetry,Poesie,0
+point,Punkt,0
+pointed,spitz,0
+point out,hinweisen,0
+poison,Gift,0
+poisonous,giftig,0
+pole,Pole,0
+police,Polizei,0
+policy,Politik,0
+polish,Polieren,0
+polite,höflich,0
+politely,höflich,0
+political,politisch,0
+politically,politisch,0
+politician,Politiker,0
+politics,Politik,0
+pollution,Umweltverschmutzung,0
+pool,Schwimmbad,0
+poor,Arm,0
+pop,Pop,0
+popular,Beliebt,0
+population,Population,0
+port,Hafen,0
+pose,Pose,0
+position,Position,0
+positive,positiv,0
+possess,besitzen,0
+possession,Besitz,0
+possibility,Wahrscheinlichkeit,0
+possible,möglich,0
+possibly,möglicherweise,0
+post,Post,0
+post office,Post,0
+pot,Topf,0
+potato,Kartoffel,0
+potential,Potenzial,0
+potentially,möglicherweise,0
+pound,Pfund,0
+pour,gießen,0
+powder,Pulver,0
+power,Energie,0
+powerful,kraftvoll,0
+practical,praktisch,0
+practically,praktisch,0
+practice,trainieren,0
+practise,trainieren,0
+praise,loben,0
+pray,beten,0
+prayer,Gebet,0
+precise,präzise,0
+precisely,genau,0
+predict,vorhersagen,0
+prefer,vorziehen,0
+preference,Präferenz,0
+pregnant,schwanger,0
+premises,Firmengelände,0
+preparation,Vorbereitung,0
+prepare,vorbereiten,0
+prepared,bereit,0
+presence,Gegenwart,0
+present,gegenwärtig,0
+presentation,Präsentation,0
+preserve,bewahren,0
+president,Präsident,0
+press,Drücken Sie,0
+pressure,Druck,0
+presumably,vermutlich,0
+pretend,so tun als ob,0
+pretty,hübsch,0
+prevent,verhindern,0
+previous,früher,0
+previously,bisher,0
+price,Preis,0
+pride,Stolz,0
+priest,Priester,0
+primarily,in erster Linie,0
+primary,primär,0
+prime minister,Premierminister,0
+prince,Prinz,0
+princess,Prinzessin,0
+principle,Prinzip,0
+print,drucken,0
+printer,Drucker,0
+printing,Drucken,0
+print off,ausdrucken,0
+prior,frühere,0
+priority,Priorität,0
+prison,Gefängnis,0
+prisoner,Häftling,0
+private,Privatgelände,0
+privately,privat,0
+prize,Preis-,0
+probable,wahrscheinlich,0
+probably,wahrscheinlich,0
+problem,Problem,0
+procedure,Verfahren,0
+proceed,verlaufen,0
+process,Prozess,0
+produce,produzieren,0
+producer,Hersteller,0
+product,Produkt,0
+production,Produktion,0
+profession,Beruf,0
+professional,Fachmann,0
+professor,Professor,0
+profit,profitieren,0
+program,Programm,0
+programme,Programm,0
+progress,Fortschritt,0
+project,Projekt,0
+promise,versprechen,0
+promote,fördern,0
+promotion,Förderung,0
+prompt,prompt,0
+promptly,sofort,0
+pronounce,aussprechen,0
+pronunciation,Aussprache,0
+proof,nachweisen,0
+proper,richtig,0
+properly,richtig,0
+property,Eigentum,0
+proportion,Anteil,0
+proposal,Vorschlag,0
+propose,vorschlagen,0
+prospect,Aussicht,0
+protect,beschützen,0
+protection,Schutz,0
+protest,Protest,0
+proud,stolz,0
+proudly,stolz,0
+prove,beweisen,0
+provide,zur Verfügung stellen,0
+provided,bereitgestellt,0
+providing,Bereitstellung,0
+pub,Pub,0
+public,Öffentlichkeit,0
+publication,Veröffentlichung,0
+publicity,Werbung,0
+publicly,öffentlich,0
+publish,veröffentlichen,0
+publishing,Veröffentlichung,0
+pull,ziehen,0
+pull apart,auseinander ziehen,0
+pull down,runterziehen,0
+pull in,anziehen,0
+pull off,abziehen,0
+pull out,Herausziehen,0
+pull over,zur Seite fahren,0
+pull through,durchziehen,0
+pull together,Reiß dich zusammen,0
+pull up,hochziehen,0
+punch,schlagen,0
+punish,bestrafen,0
+punishment,Bestrafung,0
+pupil,Schüler,0
+purchase,kaufen,0
+pure,rein,0
+purely,rein,0
+purple,Violett,0
+purpose,Zweck,0
+pursue,verfolgen,0
+push,drücken,0
+push about,drängen,0
+push forward,vorstoßen,0
+put,stellen,0
+put away,weglegen,0
+put back,zurück geben,0
+put down,hinlegen,0
+put forward,vorbringen,0
+put in,einstellen,0
+put off,aufschieben,0
+put on,anziehen,0
+put out,herausgeben,0
+put through,durchsetzen,0
+put together,zusammensetzen,0
+put up,aufstellen,0
+put up with,aushalten,0
+qualification,Qualifikation,0
+qualified,qualifiziert,0
+qualify,qualifizieren,0
+quality,Qualität,0
+quantity,Anzahl,0
+quarter,Quartal,0
+queen,Königin,0
+question,Frage,0
+quick,schnell,0
+quickly,schnell,0
+quiet,ruhig,0
+quietly,ruhig,0
+quit,Verlassen,0
+quite,ziemlich,0
+quote,zitieren,0
+race,Rennen,0
+racing,Rennen,0
+radio,Radio,0
+rail,Schiene,0
+railroad,Eisenbahn,0
+railway,Eisenbahn,0
+rain,Regen,0
+raise,heben,0
+range,Angebot,0
+rank,Rang,0
+rapid,schnell,0
+rapidly,schnell,0
+rare,Selten,0
+rarely,selten,0
+rate,Bewertung,0
+rather,eher,0
+raw,roh,0
+re-,betreffend-,0
+reach,erreichen,0
+react,reagieren,0
+reaction,Reaktion,0
+read,lesen,0
+reader,Leser,0
+reading,lesen,0
+read out,vorlesen,0
+read over,drüber lesen,0
+ready,bereit,0
+real,real,0
+realistic,realistisch,0
+reality,Wirklichkeit,0
+realize,realisieren,0
+really,Ja wirklich,0
+rear,Rückseite,0
+reason,Grund,0
+reasonable,angemessen,0
+reasonably,vernünftig,0
+recall,abrufen,0
+receipt,Kassenbon,0
+receive,erhalten,0
+recent,jüngste,0
+recently,in letzter Zeit,0
+reception,Rezeption,0
+reckon,rechnen,0
+reckon on,rechnen,0
+recognition,Erkennung,0
+recognize,erkenne,0
+recommend,empfehlen,0
+record,Aufzeichnung,0
+recording,Aufzeichnung,0
+recover,genesen,0
+red,rot,0
+reduce,reduzieren,0
+reduction,die Ermäßigung,0
+refer,verweisen,0
+reference,Hinweis,0
+refer to,beziehen auf,0
+reflect,reflektieren,0
+reform,Reform,0
+refrigerator,Kühlschrank,0
+refusal,Ablehnung,0
+refuse,sich weigern,0
+regard,betrachten,0
+regarding,bezüglich,0
+region,Region,0
+regional,regional,0
+register,registrieren,0
+regret,Reue,0
+regular,regulär,0
+regularly,regelmäßig,0
+regulation,Verordnung,0
+reject,ablehnen,0
+relate,betreffen,0
+related,verbunden,0
+relate to,in Beziehung zu,0
+relation,Beziehung,0
+relationship,Beziehung,0
+relative,relativ,0
+relatively,verhältnismäßig,0
+relax,Entspannen Sie sich,0
+relaxed,entspannt,0
+relaxing,Entspannung,0
+release,Veröffentlichung,0
+relevant,relevant,0
+relief,Hilfe,0
+religion,Religion,0
+religious,religiös,0
+rely,vertrauen,0
+rely on,sich verlassen auf,0
+remain,bleiben übrig,0
+remaining,verblieben,0
+remains,Überreste,0
+remark,Anmerkung,0
+remarkable,bemerkenswert,0
+remarkably,bemerkenswert,0
+remember,denken Sie daran,0
+remind,erinnern,0
+remind of,erinnern an,0
+remote,Fernbedienung,0
+removal,Entfernung,0
+remove,Löschen,0
+rent,Miete,0
+rented,gemietet,0
+repair,Reparatur,0
+repeat,wiederholen,0
+repeated,wiederholt,0
+repeatedly,wiederholt,0
+replace,ersetzen,0
+reply,Antwort,0
+report,Bericht,0
+represent,vertreten,0
+representative,Vertreter,0
+reproduce,reproduzieren,0
+reputation,Ruf,0
+request,Anfrage,0
+require,benötigen,0
+requirement,Erfordernis,0
+rescue,Rettung,0
+research,Forschung,0
+reservation,Reservierung,0
+reserve,Reservieren,0
+resident,Bewohner,0
+resist,widerstehen,0
+resistance,Widerstand,0
+resolve,beschließen,0
+resort,Resort,0
+resort to,zurückgreifen auf,0
+resource,Ressource,0
+respect,Respekt,0
+respond,antworten,0
+response,Antwort,0
+responsibility,Verantwortung,0
+responsible,verantwortlich,0
+rest,sich ausruhen,0
+restaurant,Restaurant,0
+restore,wiederherstellen,0
+restrict,beschränken,0
+restricted,eingeschränkt,0
+restriction,Beschränkung,0
+result,Ergebnis,0
+result in,führen in,0
+retain,zuückbehalten,0
+retire,ausscheiden,0
+retired,im Ruhestand,0
+retirement,Ruhestand,0
+return,Rückkehr,0
+reveal,aufdecken,0
+reverse,umkehren,0
+review,Rezension,0
+revise,überarbeiten,0
+revision,Revision,0
+revolution,Revolution,0
+reward,belohnen,0
+rhythm,Rhythmus,0
+rice,Reis,0
+rich,Reich,0
+rid,loswerden,0
+ride,Reiten,0
+rider,Fahrer,0
+ridiculous,lächerlich,0
+riding,Reiten,0
+right,Rechts,0
+rightly,richtig,0
+ring,Ring,0
+ring back,zurückrufen,0
+rise,Aufstieg,0
+risk,Risiko,0
+rival,Rivale,0
+river,Fluss,0
+road,Straße,0
+rob,rauben,0
+rock,Felsen,0
+role,Rolle,0
+roll,rollen,0
+romantic,romantisch,0
+roof,Dach,0
+room,Zimmer,0
+root,Wurzel,0
+rope,Seil,0
+rough,Rau,0
+roughly,grob,0
+round,runden,0
+rounded,gerundet,0
+route,Route,0
+routine,Routine,0
+row,die Zeile,0
+royal,königlich,0
+rub,reiben,0
+rubber,Gummi,0
+rubbish,Müll,0
+rude,unhöflich,0
+rudely,grob,0
+ruin,zugrunde richten,0
+ruined,ruiniert,0
+rule,Regel,0
+rule out,ausschließen,0
+ruler,Lineal,0
+rumour,Gerücht,0
+run,Lauf,0
+run after,rennen danach,0
+run away,weglaufen,0
+runner,Läufer,0
+running,laufend,0
+run out,leerlaufen,0
+run over,überlaufen,0
+run through,durchlaufen,0
+rural,ländlich,0
+rush,sich beeilen,0
+sack,Sack,0
+sad,traurig,0
+sadly,leider,0
+sadness,Traurigkeit,0
+safe,sicher,0
+safely,sicher,0
+safety,Sicherheit,0
+sail,Segel,0
+sailing,Segeln,0
+sailor,Seemann,0
+salad,Salat,0
+salary,Gehalt,0
+sale,Verkauf,0
+salt,Salz,0
+salty,salzig,0
+same,gleich,0
+sample,Probe,0
+sand,Sand,0
+satisfaction,Befriedigung,0
+satisfied,befriedigt,0
+satisfy,erfüllen,0
+satisfying,befriedigend,0
+Saturday,Samstag,0
+sauce,Soße,0
+save,sparen,0
+saving,sparen,0
+say,sagen,0
+scale,Skala,0
+scare,Schrecken,0
+scared,erschrocken,0
+scare off,abschrecken,0
+scene,Szene,0
+schedule,zeitlicher Ablauf,0
+scheme,planen,0
+school,Schule,0
+science,Wissenschaft,0
+scientific,wissenschaftlich,0
+scientist,Wissenschaftler,0
+scissors,Schere,0
+score,Punktzahl,0
+scratch,kratzen,0
+scream,Schrei,0
+screen,Bildschirm,0
+screw,schrauben,0
+sea,Meer,0
+seal,Siegel,0
+seal off,versiegeln,0
+search,Suche,0
+season,Jahreszeit,0
+seat,Sitz,0
+second,zweite,0
+secondary,sekundär,0
+secret,Geheimnis,0
+secretary,Sekretär,0
+secretly,heimlich,0
+section,Sektion,0
+sector,Sektor,0
+secure,sicher,0
+security,Sicherheit,0
+see,sehen,0
+see about,sehen,0
+seed,Samen,0
+seek,suchen,0
+seem,erscheinen,0
+see to,Sehen Sie,0
+select,auswählen,0
+selection,Auswahl,0
+self,selbst,0
+self-,selbst-,0
+sell,verkaufen,0
+sell off,Ausverkauf,0
+sell out,ausverkaufen,0
+senate,Senat,0
+senator,Senator,0
+send,senden,0
+send for,Senden Sie,0
+send off,abschicken,0
+senior,Senior,0
+sense,Sinn,0
+sensible,vernünftig,0
+sensitive,empfindlich,0
+sentence,Satz,0
+separate,getrennt,0
+separated,getrennt,0
+separately,separat,0
+separation,Trennung,0
+September,September,0
+series,Serie,0
+serious,ernst,0
+seriously,Ernsthaft,0
+servant,Knecht,0
+serve,Dienen,0
+service,Service,0
+session,Sitzung,0
+set,einstellen,0
+set off,losfahren,0
+set out,auf den Weg machen,0
+settle,siedeln,0
+settle down,niederlassen,0
+set up,Konfiguration,0
+seven,Sieben,0
+seventeen,siebzehn,0
+seventh,siebte,0
+seventieth,siebzigste,0
+seventy,siebzig,0
+several,mehrere,0
+severe,schwer,0
+severely,stark,0
+sew,nähen,0
+sewing,Nähen,0
+sex,Sex,0
+sexual,sexuell,0
+sexually,sexuell,0
+shade,Schatten,0
+shadow,Schatten,0
+shake,Shake,0
+shall,soll,0
+shallow,seicht,0
+shame,Schande,0
+shape,Form,0
+shaped,geformt,0
+share,Teilen,0
+sharp,Scharf,0
+sharply,scharf,0
+shave,rasieren,0
+she,sie,0
+sheep,Schaf,0
+sheet,Blech,0
+shelf,Regal,0
+shell,Hülse,0
+shelter,Schutz,0
+shift,Wechsel,0
+shine,scheinen,0
+shiny,glänzend,0
+ship,Schiff,0
+shirt,Shirt,0
+shock,Schock,0
+shocked,schockiert,0
+shocking,schockierend,0
+shoe,Schuh,0
+shoot,schießen,0
+shoot down,abschießen,0
+shooting,Schießen,0
+shop,Geschäft,0
+shopping,Einkaufen,0
+short,kurz,0
+shortly,in Kürze,0
+shot,Schuss,0
+should,sollte,0
+shoulder,Schulter,0
+shout,schreien,0
+show,Show,0
+shower,Dusche,0
+show off,angeben,0
+show round,umher zeigen,0
+show up,erscheinen,0
+shut,schließen,0
+shut down,stilllegen,0
+shut in,Schließe ein,0
+shut out,ausschalten,0
+shut up,den Mund halten,0
+shy,schüchtern,0
+sick,krank,0
+side,Seite,0
+sideways,seitwärts,0
+sight,Sicht,0
+sign,Schild,0
+signal,Signal,0
+signature,Unterschrift,0
+significant,von Bedeutung,0
+significantly,bedeutend,0
+silence,Schweigen,0
+silent,Leise,0
+silk,Seide,0
+silly,dumm,0
+silver,Silber-,0
+similar,ähnlich,0
+similarly,ähnlich,0
+simple,einfach,0
+simply,einfach,0
+since,seit,0
+sincere,aufrichtig,0
+sincerely,Mit freundlichen Grüßen,0
+sing,singen,0
+singer,Sänger,0
+singing,Singen,0
+single,Single,0
+sink,Waschbecken,0
+sir,Herr,0
+sister,Schwester,0
+sit,mach Sitz,0
+sit down,Hinsetzen,0
+site,Seite? ˅,0
+situation,Lage,0
+six,sechs,0
+sixteen,sechzehn,0
+sixth,sechste,0
+sixtieth,Sechzigste,0
+sixty,sechzig,0
+size,Größe,0
+skilful,geschickt,0
+skilfully,geschickt,0
+skill,Können,0
+skilled,qualifiziert,0
+skin,Haut,0
+skirt,Rock,0
+sky,Himmel,0
+sleep,schlafen,0
+sleeve,Ärmel,0
+slice,Scheibe,0
+slide,gleiten,0
+slight,leicht,0
+slightly,leicht,0
+slip,Unterhose,0
+slope,Neigung,0
+slow,langsam,0
+slowly,langsam,0
+small,klein,0
+smart,Clever,0
+smash,zerschlagen,0
+smell,Geruch,0
+smile,lächeln,0
+smoke,Rauch,0
+smoking,Rauchen,0
+smooth,glatt,0
+smoothly,glatt,0
+snake,Schlange,0
+snow,Schnee,0
+so,Also,0
+soap,Seife,0
+social,Sozial,0
+socially,sozial,0
+society,Gesellschaft,0
+sock,Socke,0
+soft,Sanft,0
+softly,leise,0
+software,Software,0
+soil,Boden,0
+soldier,Soldat,0
+solid,fest,0
+solution,Lösung,0
+solve,lösen,0
+some,etwas,0
+somebody,jemand,0
+somehow,irgendwie,0
+someone,jemand,0
+something,etwas,0
+sometimes,manchmal,0
+somewhat,etwas,0
+somewhere,irgendwo,0
+son,Sohn,0
+song,Lied,0
+soon,demnächst,0
+sore,wund,0
+sorry,Verzeihung,0
+sort,Sortieren,0
+sort out,aussortieren,0
+soul,Seele,0
+sound,Klang,0
+soup,Suppe,0
+sour,sauer,0
+source,Quelle,0
+south,Süden,0
+southern,Süd-,0
+space,Platz,0
+spare,Ersatzteil,0
+speak,sprechen,0
+speaker,Lautsprecher,0
+speak out,aussprechen,0
+speak up,sprechen,0
+special,Besondere,0
+specialist,Spezialist,0
+specially,speziell,0
+specific,Spezifisch,0
+specifically,speziell,0
+speech,Rede,0
+speed,Geschwindigkeit,0
+speed up,beschleunigen,0
+spell,Fluch,0
+spelling,Rechtschreibung,0
+spend,verbringen,0
+spice,würzen,0
+spicy,würzig,0
+spider,Spinne,0
+spin,drehen,0
+spirit,Geist,0
+spiritual,spirituell,0
+spite,Trotz,0
+split,Teilt,0
+split up,aufteilen,0
+spoil,verderben,0
+spoken,gesprochen,0
+spoon,Löffel,0
+sport,Sport,0
+spot,Stelle,0
+spray,sprühen,0
+spread,Verbreitung,0
+spread out,verteilen,0
+spring,Frühling,0
+square,Quadrat,0
+squeeze,drücken,0
+stable,stabil,0
+staff,Mitarbeiter,0
+stage,Bühne,0
+stair,Treppe,0
+stamp,Stempel,0
+stand,Stand,0
+standard,Standard,0
+stand back,treten Sie zurück,0
+stand by,bereithalten,0
+stand for,stehen für,0
+stand out,auffallen,0
+stand up,aufstehen,0
+stand up for,sich für etwas einsetzen,0
+star,Stern,0
+stare,starren,0
+start,Anfang,0
+start off,anfangen,0
+start out,beginnen,0
+start up,Anlaufen,0
+state,Zustand,0
+statement,Aussage,0
+station,Bahnhof,0
+statue,Statue,0
+status,Status,0
+stay,bleibe,0
+stay away,Bleib weg,0
+stay out of,sich aus etwas heraushalten,0
+steadily,ständig,0
+steady,stetig,0
+steal,stehlen,0
+steam,Dampf,0
+steel,Stahl,0
+steep,steil,0
+steeply,steil,0
+steer,steuern,0
+step,Schritt,0
+stick,Stock,0
+stick out,abstehen,0
+stick to,bleiben bei,0
+stick up,aufhalten,0
+sticky,klebrig,0
+stiff,steif,0
+stiffly,steif,0
+still,still,0
+sting,Stachel,0
+stir,Aufsehen,0
+stock,Lager,0
+stomach,Magen,0
+stone,Stein,0
+stop,Pause,0
+store,Laden,0
+storm,Sturm,0
+story,Geschichte,0
+stove,Herd,0
+straight,gerade,0
+strain,Beanspruchung,0
+strange,seltsam,0
+strangely,seltsam,0
+stranger,Fremder,0
+strategy,Strategie,0
+stream,Strom,0
+street,Straße,0
+strength,Stärke,0
+stress,betonen,0
+stressed,betont,0
+stretch,strecken,0
+strict,strikt,0
+strictly,streng,0
+strike,schlagen,0
+striking,streikend,0
+string,Saite,0
+strip,Streifen,0
+stripe,Streifen,0
+striped,gestreift,0
+stroke,streicheln,0
+strong,stark,0
+strongly,stark,0
+structure,Struktur,0
+struggle,Kampf,0
+student,Schüler,0
+studio,Studio,0
+study,lernen,0
+stuff,Sachen,0
+stupid,dumm,0
+style,Stil,0
+subject,Thema,0
+substance,Substanz,0
+substantial,substanziell,0
+substantially,im Wesentlichen,0
+substitute,Ersatz,0
+succeed,erfolgreich,0
+success,Erfolg,0
+successful,erfolgreich,0
+successfully,erfolgreich,0
+such,eine solche,0
+suck,saugen,0
+sudden,plötzlich,0
+suddenly,plötzlich,0
+suffer,leiden,0
+suffering,leiden,0
+sufficient,reicht aus,0
+sufficiently,ausreichend,0
+sugar,Zucker,0
+suggest,empfehlen,0
+suggestion,Anregung,0
+suit,passen,0
+suitable,geeignet,0
+suitcase,Koffer,0
+suited,geeignet,0
+sum,Summe,0
+summary,Zusammenfassung,0
+summer,Sommer,0
+sum up,zusammenfassen,0
+sun,Sonne,0
+Sunday,Sonntag,0
+superior,Vorgesetzter,0
+supermarket,Supermarkt,0
+supply,liefern,0
+support,Unterstützung,0
+supporter,Fan,0
+suppose,vermuten,0
+sure,sicher,0
+surely,sicherlich,0
+surface,auftauchen,0
+surname,Familien-oder Nachname,0
+surprise,Überraschung,0
+surprised,überrascht,0
+surprising,überraschend,0
+surprisingly,überraschenderweise,0
+surround,umgeben,0
+surrounding,umgeben,0
+surroundings,Umfeld,0
+survey,Umfrage,0
+survive,überleben,0
+suspect,vermuten,0
+suspicion,Verdacht,0
+suspicious,verdächtig,0
+swallow,schlucken,0
+swear,schwören,0
+swearing,Fluchen,0
+sweat,Schweiß,0
+sweater,Pullover,0
+sweep,fegen,0
+sweet,süß,0
+swell,anschwellen,0
+swelling,Schwellung,0
+swim,schwimmen,0
+swimming,Baden,0
+swimming pool,Schwimmbad,0
+swing,schwingen,0
+switch,Schalter,0
+switch off,ausschalten,0
+swollen,geschwollen,0
+symbol,Symbol,0
+sympathetic,sympathisch,0
+sympathy,Sympathie,0
+system,System,0
+table,Tisch,0
+tablet,Tablette,0
+tackle,angehen,0
+tail,Schwanz,0
+take,nehmen,0
+take away,wegbringen,0
+take back,zurücknehmen,0
+take down,herunter nehmen,0
+take in,aufnehmen,0
+take off,abheben,0
+take on,übernehmen,0
+take over,übernehmen,0
+take up,aufheben,0
+talk,sich unterhalten,0
+tall,hoch,0
+tank,Panzer,0
+tap,klopfen,0
+tape,Band,0
+target,Ziel,0
+task,Aufgabe,0
+taste,Geschmack,0
+tax,MwSt,0
+taxi,Taxi,0
+tea,Tee,0
+teach,unterrichten,0
+teacher,Lehrer,0
+teaching,Lehren,0
+team,Mannschaft,0
+tear,Träne,0
+tear up,zerreißen,0
+technical,technisch,0
+technique,Technik,0
+technology,Technologie,0
+telephone,Telefon,0
+television,Fernsehen,0
+tell,erzählen,0
+tell off,aussprechen,0
+temperature,Temperatur,0
+temporarily,vorübergehend,0
+temporary,vorübergehend,0
+ten,zehn,0
+tend,neigen,0
+tendency,Tendenz,0
+tension,Spannung,0
+tent,Zelt,0
+tenth,Zehntel,0
+term,Begriff,0
+terrible,abscheulich,0
+terribly,fürchterlich,0
+test,Prüfung,0
+text,Text,0
+than,als,0
+thank,danken,0
+thanks,Danke,0
+thank you,Danke,0
+that,das,0
+the,das,0
+theatre,Theater,0
+their,ihr,0
+theirs,ihre,0
+them,Sie,0
+theme,Thema,0
+themselves,sich,0
+then,dann,0
+theory,Theorie,0
+there,dort,0
+therefore,deshalb,0
+they,sie,0
+thick,dick,0
+thickly,dick,0
+thickness,Dicke,0
+thief,Dieb,0
+thin,dünn,0
+thing,Ding,0
+think,denken,0
+think about,nachdenken über,0
+thinking,Denken,0
+think of,Denk an,0
+think of as,denken Sie an als,0
+think over,überdenken,0
+think up,ausdenken,0
+third,dritte,0
+thirsty,durstig,0
+thirteen,dreizehn,0
+thirteenth,dreizehnte,0
+thirtieth,dreißigste,0
+thirty,dreißig,0
+this,Dies,0
+thorough,gründlich,0
+thoroughly,gründlich,0
+though,obwohl,0
+thought,Gedanke,0
+thousand,tausend,0
+thousandth,Tausendstel,0
+thread,Faden,0
+threat,Drohung,0
+threaten,drohen,0
+threatening,bedrohlich,0
+three,drei,0
+throat,Kehle,0
+through,durch,0
+throughout,hindurch,0
+throw,Wurf,0
+throw away,wegschmeißen,0
+throw out,rausschmeißen,0
+thumb,Daumen,0
+Thursday,Donnerstag,0
+thus,daher,0
+ticket,Fahrkarte,0
+tidy,ordentlich,0
+tie,binden,0
+tie up,Fesseln,0
+tight,fest,0
+tightly,dicht,0
+till,bis,0
+time,Zeit,0
+timetable,Zeitplan,0
+tin,Zinn,0
+tiny,sehr klein,0
+tip,Tipp,0
+tip over,umkippen,0
+tire,Reifen,0
+tired,müde,0
+tire out,ausgelaugt sein,0
+tiring,ermüdend,0
+title,Titel,0
+to,zu,0
+today,heute,0
+toe,Zehe,0
+together,zusammen,0
+toilet,Toilette,0
+tomato,Tomate,0
+tomorrow,Morgen,0
+ton,Tonne,0
+tone,Ton,0
+tongue,Zunge,0
+tonight,heute Abend,0
+tonne,Tonne,0
+too,zu,0
+tool,Werkzeug,0
+tooth,Zahn,0
+top,oben,0
+topic,Thema,0
+total,gesamt,0
+totally,total,0
+touch,berühren,0
+tough,hart,0
+tour,Tour,0
+tourist,Tourist,0
+towards,gegenüber,0
+towel,Handtuch,0
+tower,Turm,0
+town,"Stadt, Dorf",0
+toy,Spielzeug,0
+trace,verfolgen,0
+track,Spur,0
+trade,handeln,0
+trading,Handel,0
+tradition,Tradition,0
+traditional,traditionell,0
+traditionally,traditionell,0
+traffic,Verkehr,0
+train,Zug,0
+training,Ausbildung,0
+transfer,Transfer,0
+transform,verwandeln,0
+translate,Übersetzen,0
+translation,Übersetzung,0
+transparent,transparent,0
+transport,Transport,0
+transportation,Transport,0
+trap,fangen,0
+travel,reisen,0
+traveller,Reisender,0
+treat,behandeln,0
+treatment,Behandlung,0
+tree,Baum,0
+trend,Trend,0
+trial,Studie,0
+triangle,Dreieck,0
+trick,Trick,0
+trip,Reise,0
+tropical,tropisch,0
+trouble,Problem,0
+trousers,Hose,0
+truck,LKW,0
+true,stimmt,0
+truly,wirklich,0
+trust,vertrauen,0
+truth,Wahrheit,0
+try,Versuchen,0
+try on,anprobieren,0
+try out,ausprobieren,0
+tube,Rohr,0
+Tuesday,Dienstag,0
+tune,Melodie,0
+tunnel,Tunnel,0
+turn,drehen,0
+turn back,zurückdrehen,0
+turn down,abdrehen,0
+turn into,einbiegen in,0
+turn off,schalte aus,0
+turn on,einschalten,0
+turn out,sich herausstellen,0
+turn over,umdrehen,0
+turn round,umdrehen,0
+turn to,sich wenden an,0
+turn up,auftauchen,0
+TV,Fernseher,0
+twelfth,Zwölftel,0
+twelve,zwölf,0
+twentieth,Zwanzigstes,0
+twenty,zwanzig,0
+twice,zweimal,0
+twin,Zwilling,0
+twist,Twist,0
+twisted,verdrehte,0
+two,zwei,0
+type,Typ,0
+typical,typisch,0
+typically,Normalerweise,0
+tyre,Reifen,0
+the unemployed,die Arbeitslosen,0
+the unexpected,das Unerwartete,0
+ugly,hässlich,0
+ultimate,ultimativ,0
+ultimately,letzten Endes,0
+umbrella,Regenschirm,0
+unable,unfähig,0
+unacceptable,inakzeptabel,0
+uncertain,unsicher,0
+uncle,Onkel,0
+uncomfortable,unbequem,0
+unconscious,unbewusst,0
+uncontrolled,unkontrolliert,0
+under,unter,0
+underground,unter Tage,0
+underneath,unterhalb,0
+understand,verstehe,0
+understanding,Verständnis,0
+underwater,Unterwasser,0
+underwear,Unterwäsche,0
+undo,rückgängig machen,0
+unemployed,arbeitslos,0
+unemployment,Arbeitslosigkeit,0
+unexpected,unerwartet,0
+unexpectedly,unerwartet,0
+unfair,unfair,0
+unfairly,unfair,0
+unfortunate,unglücklich,0
+unfortunately,Unglücklicherweise,0
+unfriendly,unfreundlich,0
+unhappy,unzufrieden,0
+uniform,Uniform,0
+unimportant,unwichtig,0
+union,Union,0
+unique,einzigartig,0
+unit,Einheit,0
+unite,Vereinen,0
+united,vereinigt,0
+universe,Universum,0
+university,Universität,0
+unkind,unfreundlich,0
+unknown,Unbekannt,0
+unless,wenn nicht,0
+unlike,nicht wie,0
+unlikely,unwahrscheinlich,0
+unload,entladen,0
+unlucky,unglücklich,0
+unnecessary,nicht notwendig,0
+unpleasant,unangenehm,0
+unreasonable,unvernünftig,0
+unsteady,unstetig,0
+unsuccessful,erfolglos,0
+untidy,unordentlich,0
+until,bis um,0
+unusual,ungewöhnlich,0
+unusually,ungewöhnlich,0
+unwilling,nicht bereit,0
+unwillingly,unfreiwillig,0
+up,hoch,0
+upon,auf,0
+upper,"Oberer, höher",0
+upset,verärgern,0
+upsetting,störend,0
+upside down,verkehrt herum,0
+upstairs,nach oben,0
+upward,nach oben,0
+upwards,nach oben,0
+urban,urban,0
+urge,Drang,0
+urgent,dringend,0
+us,uns,0
+use,verwenden,0
+used,Gebraucht,0
+used to,gewöhnt an,0
+useful,nützlich,0
+useless,nicht zu gebrauchen,0
+user,Benutzer,0
+use up,verbrauchen,0
+usual,üblich,0
+usually,normalerweise,0
+vacation,Urlaub,0
+valid,gültig,0
+valley,Senke,0
+valuable,wertvoll,0
+value,Wert,0
+van,Van,0
+variation,Variation,0
+varied,abwechslungsreich,0
+variety,Vielfalt,0
+various,verschiedene,0
+vary,variieren,0
+vast,groß,0
+vegetable,Gemüse,0
+vehicle,Fahrzeug,0
+venture,wagen,0
+version,Ausführung,0
+vertical,vertikal,0
+very,sehr,0
+via,über,0
+victim,Opfer,0
+victory,Sieg,0
+video,Video,0
+view,Aussicht,0
+village,Dorf,0
+violence,Gewalt,0
+violent,heftig,0
+violently,heftig,0
+virtually,virtuell,0
+virus,Virus,0
+visible,sichtbar,0
+vision,Vision,0
+visit,Besuch,0
+visitor,Besucher,0
+vital,vital,0
+vocabulary,Wortschatz,0
+voice,Stimme,0
+volume,Volumen,0
+vote,Abstimmung,0
+wage,Lohn,0
+waist,Taille,0
+wait,Warten,0
+waiter,Kellner,0
+wake,aufwachen,0
+walk,Spaziergang,0
+walking,gehen,0
+walk out,hinausgehen,0
+walk up,Gehen Sie hoch,0
+wall,Mauer,0
+wallet,Geldbörse,0
+wander,wandern,0
+want,wollen,0
+war,Krieg,0
+warm,warm,0
+warmth,Wärme,0
+warm up,sich warm laufen,0
+warn,warnen,0
+warning,Warnung,0
+wash,waschen,0
+wash away,wegwaschen,0
+washing,Waschen,0
+wash off,abwaschen,0
+wash out,ausspülen,0
+wash up,waschen,0
+waste,Abfall,0
+watch,Uhr,0
+watch out,Achtung,0
+watch out for,achten Sie auf,0
+water,Wasser,0
+wave,Welle,0
+way,Weg,0
+we,wir,0
+weak,schwach,0
+weakness,die Schwäche,0
+wealth,Vermögen,0
+weapon,Waffe,0
+wear,tragen,0
+wear away,verwischen,0
+wear off,abnutzen,0
+wear out,abnutzen,0
+weather,Wetter,0
+web,Netz,0
+website,Webseite,0
+wedding,Hochzeit,0
+Wednesday,Mittwoch,0
+week,Woche,0
+weekend,Wochenende,0
+weekly,wöchentlich,0
+weigh,wiegen,0
+weight,Gewicht,0
+welcome,willkommen,0
+well,Gut,0
+well known,sehr bekannt,0
+west,Westen,0
+western,Western,0
+wet,nass,0
+what,was,0
+whatever,wie auch immer,0
+wheel,Rad,0
+when,Wenn,0
+whenever,Wann immer,0
+where,wo,0
+whereas,wohingegen,0
+wherever,wo auch immer,0
+whether,ob,0
+which,die,0
+while,während,0
+whisper,flüstern,0
+whistle,Pfeife,0
+white,Weiß,0
+who,wer,0
+whoever,Wer auch immer,0
+whole,ganz,0
+whom,dem,0
+whose,Deren,0
+why,warum,0
+wide,breit,0
+widely,weit,0
+width,Breite,0
+wife,Ehefrau,0
+wild,wild,0
+wildly,wild,0
+will,Wille,0
+willing,bereit,0
+willingly,bereitwillig,0
+willingness,Bereitschaft,0
+win,gewinnen,0
+wind,Wind,0
+window,Fenster,0
+wine,Wein,0
+wing,Flügel,0
+winner,Gewinner,0
+winning,Gewinnen,0
+winter,Winter,0
+wire,Kabel,0
+wise,weise,0
+wish,Wunsch,0
+with,mit,0
+withdraw,abheben,0
+within,innerhalb,0
+without,ohne,0
+witness,Zeuge,0
+woman,Frau,0
+wonder,sich fragen,0
+wonderful,wunderbar,0
+wood,Holz,0
+wooden,hölzern,0
+wool,wolle,0
+word,Wort,0
+work,Arbeit,0
+worker,Arbeiter,0
+working,Arbeiten,0
+work out,trainieren,0
+world,Welt,0
+worried,besorgt,0
+worry,Sorge,0
+worrying,besorgniserregend,0
+worse,schlechter,0
+worship,Verehrung,0
+worst,schlechteste,0
+worth,Wert,0
+would,möchten,0
+wound,Wunde,0
+wounded,verwundet,0
+wrap,wickeln,0
+wrapping,Verpackung,0
+wrist,Handgelenk,0
+write,schreiben,0
+write back,Schreib zurück,0
+write down,aufschreiben,0
+writer,Schriftsteller,0
+writing,Schreiben,0
+written,geschrieben,0
+wrong,falsch,0
+wrongly,zu Unrecht,0
+yard,Hof,0
+yawn,gähnen,0
+yeah,ja,0
+year,Jahr,0
+yellow,gelb,0
+yes,Jawohl,0
+yesterday,gestern,0
+yet,noch,0
+you,Sie,0
+young,jung,0
+your,dein,0
+yours,deine,0
+yourself,dich selbst,0
+youth,Jugend,0
+zero,Null,0
+zone,Zone,0

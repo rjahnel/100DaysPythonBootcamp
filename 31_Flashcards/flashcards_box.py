@@ -182,7 +182,7 @@ try:
         language_header = file.readline()
         
 except FileNotFoundError:
-    with open("data/vocabulary") as file:
+    with open("data/vocabulary.csv") as file:
         language_header = file.readline()
 finally:
     languages = language_header.rstrip('\n').split(',')
