@@ -2,7 +2,6 @@ from tkinter import *
 from tkinter import messagebox
 import random
 import pandas
-import json
 
 BACKGROUND_COLOR = "#B1DDC6"
 FONT_NAME = "Arial"
@@ -28,9 +27,6 @@ except FileNotFoundError:
 finally:
     to_learn = data.to_dict(orient="records")
     
-# data = pandas.read_csv("data/Oxford3000_small.csv")
-# to_learn = data.to_dict(orient="records")
-
 word = ""
 translation = ""
 LANGUAGES_ASK  = languages[0]      # e.g. English
@@ -65,7 +61,6 @@ def not_known():
     
 def solved():
     to_learn.remove(current_card)
-    
     data_learn  = pandas.DataFrame(to_learn)
     data_learn.to_csv("data/words_to_learn.csv", index=None)
         
